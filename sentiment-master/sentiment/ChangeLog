@@ -1,0 +1,12 @@
+2011-01-10  Timothy P. Jurka  <tpjurka@ucdavis.edu>
+
+	* DESCRIPTION: Release 0.2
+	* Updated requirements for package, namely R >=2.14
+	* Updated documentation to fix bugs in examples
+	* Removed references to Rcpp, artifacts of development
+	
+
+2011-01-01  Timothy P. Jurka  <tpjurka@ucdavis.edu>
+
+	* DESCRIPTION: Release 0.1
+	

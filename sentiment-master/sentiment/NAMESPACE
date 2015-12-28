@@ -1,0 +1,4 @@
+import(tm)
+import(Rstem)
+
+exportPattern("^[^\\.]")

@@ -1,0 +1,14 @@
+Package: sentiment
+Type: Package
+Title: Tools for Sentiment Analysis
+Version: 0.2
+Date: 2012-01-10
+Author: Timothy P. Jurka
+Maintainer: Timothy P. Jurka <tpjurka@ucdavis.edu>
+Depends: R (>= 2.14.0), tm, Rstem
+Description: sentiment is an R package with tools for sentiment analysis including bayesian classifiers for positivity/negativity and emotion classification.
+License: GPL-3
+LazyLoad: yes
+Packaged: 2012-01-05 00:17:55 UTC; timjurka
+Repository: CRAN
+Date/Publication: 2012-01-08 19:33:28

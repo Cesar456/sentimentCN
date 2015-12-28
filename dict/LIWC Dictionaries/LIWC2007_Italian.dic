@@ -1,0 +1,5240 @@
+%
+1	pronomi
+2	Io
+3	Noi
+4	Se
+5	Tu
+6	Altri
+7	Negazio
+8	Consen
+9	Articol
+10	Prepos
+11	Numero
+12	Affett
+13	Sen_Pos
+14	Emo_Pos
+15	Ottimis
+16	Emo_Neg
+17	Ansia
+18	Rabbia
+19	Tristez
+20	Mec_Cog
+21	Causa
+22	Intros
+23	Discrep
+24	Inibiz
+25	possib
+26	Certez
+27	Proc_Sen
+28	Vista
+29	Udito
+30	Sentim
+31	Social
+32	Comm
+33	Rif_gen
+34	amici
+35	Famigl
+36	Umano
+37	Tempo
+38	Passato
+39	Present
+40	Futuro
+41	Spazio
+42	Sopra
+43	Sotto
+44	Inclusi
+45	Esclusi
+46	Movimen
+47	Occupaz
+48	Scuola
+49	Lavoro
+50	Raggiun
+51	Svago
+52	Casa
+53	Sport
+54	TV_it
+55	Musica
+56	Soldi
+57	Metafis
+58	religio
+59	Morte
+60	Fisico
+61	Corpo
+62	Sesso
+63	Mangiare
+64	Dormire 
+65	Cura_cor
+66	parolac
+67	Non_flu
+68	riempiti
+69	Voi
+70	Lui_lei
+71	Loro
+72	Condizio
+73	Transiti
+74	P_pass
+75	gerundio
+76	Passivo
+77	Essere
+78	Avere
+79	Formale
+80	Io_Ver
+81	Tu_Verbo
+82	Lui_Verb
+83	Noi_Verb
+84	Voi_Verb
+85	Loro_Ver
+%
+a	10
+accettabil*	12	13	15	20
+accettare	8	12	13	15	20	39
+accettat*	8	12	13	15	20	74
+accetter*	8	12	13	15	20	40
+accetto	8	12	13	15	20	39
+acchiapp*	27	30
+accogliente	12	13
+accolta	12	13
+accolti	12	13
+accolto	12	13
+accord*	8	12	13	14	20
+accorga	20	22	72
+accorgano	20	22	72	85
+accorge	20	22	39	82
+accorgendo	20	22	75
+accorgente	22	20
+accorgera	20	22	40	82
+accorgerai	20	22	40	81
+accorgeranno	20	22	40	85
+accorgere	20	22
+accorgerebbe	20	22	72	82
+accorgerebbero	20	22	72	85
+accorgerei	20	22	72	80
+accorgeremmo	20	22	72	83
+accorgeremo	20	22	40	83
+accorgereste	20	22	72	84
+accorgeresti	20	22	72	81
+accorgerete	20	22	40	84
+accorgero	20	22	40	80
+accorgersi	20	22	39
+accorgesse	20	22	72	82
+accorgessero	20	22	72	85
+accorgessi	20	22	72
+accorgessimo	20	22	72	83
+accorgeste	20	22	72	84
+accorgete	20	22	39	84
+accorgeva	20	22	38	82
+accorgevamo	20	22	38	83
+accorgevano	20	22	38	85
+accorgevate	20	22	38	84
+accorgevi	20	22	38	81
+accorgevo	20	22	38	80
+accorgi	20	22	39	81
+accorgiamo	20	22	39	83
+accorgiate	20	22	72	84
+accorgo	20	22	39	80
+accorgono	20	22	39	85
+accorto	20	22	74
+accudire	12	13	14	39
+accurat*	20
+acquisire	39	50	56
+acquistando	56
+acquistare	39	56
+acquistat*	38	56
+acquisto	56
+acuminat*	12	13
+ad	10
+adatta	20
+adattare	20	22
+adatte	20
+adatti	20
+adatto	20
+addirittura	8	26
+addome	60	61
+addormenta	39	60	64
+addormentare	39	60	64
+addormentat*	60	64
+addormentav*	38	60	64
+addormento	39	60	64
+adesso	37
+ador*	12	13	14
+adulat*	31	32
+adult*	31	36
+aduna*	31
+aerobic*	51	53
+affamat*	60	61	63
+affann*	12	16	19	57	59
+affascina*	12	13
+affaticat*	12	16	19	60	61	64
+afferr*	27	30
+afferrabil*	12	16	17
+afferrat*	20	22
+affetti	12	13	14
+affetto	12	13	14
+affezionat*	12	13
+affitt*	47	49
+affront*	12	13
+aggiudicare	12	13	15	47	50
+aggiust*	20
+aggrapp*	27	30
+aggrav*	12	16
+aggress*	12	16	18
+agita*	12	16	17
+agonia	12	16	19	59
+agosto	37
+aguzz*	12	13
+ah	67
+aids	60	61	62
+aiuta	31	38
+aiutato	31	38
+aiutava	31	38
+aiuto	12	13	31	39
+alcol*	60	63
+alcool	60	63
+aldifuori	10	41
+aldisopra	10	41	42
+aldisotto	10	41	43
+alimenta	39	60	63
+allarm*	12	16	17
+allatta*	35	60	63
+allerg*	60	61
+allerta	12	13
+allett*	20	21
+allogg*	51	52
+allontan*	41
+almeno	21
+alta	41	42
+alte	41	42
+alti	41	42
+alto	41	42
+altra	45
+altre	45
+altresi'	44
+altri	45
+altrimenti	45
+altro	45
+altroche	3	26
+altrove	41	45	69
+alzare	42	46
+ama	12	13	14	39	60	62	82
+amando	12	13	14	39	60	62
+amano	12	13	14	39	60	62	85
+amant*	31	34	60	62
+amaramente	12	16	18	27
+amare	12	13	14	39	60	62
+amaro	12	16	18	27
+amata	12	13	14
+amate	12	13	14
+amati	12	13	14
+amato	12	13	14
+amav*	12	13	14	38	60	62
+amo	80
+ambigu*	25
+amer*	12	13	14	40	60	62
+amica	31	34
+amiche	31	34
+amichevol*	12	13
+amici	31	34
+amico	31	34
+ammalat*	60	61
+ammazza*	12	18	22	57	59
+ammess*	20	22	31	32
+ammettendo	20	22	31	32
+ammettere	20	22	31	32	39
+ammettiamo	20	22	31	32	39
+ammir*	12	13	14
+ammis*	20	22	31	32	39
+ammutol*	12	16	18	66
+amo	12	13	14	39	60	80
+amomenti	37
+amore	12	13	14	39	60	62
+amoros*	12	13	14
+ampi*	41
+anale	60	61	62
+anali	60	61	62
+analisi	20	22
+analizz*	20	22
+anca	60	61
+anche	44
+ancora	37
+andammo	38	46
+andando	46	75
+andante	46
+andare	39	46
+andare	46
+andarsene	39	46
+andasse	46	72	82
+andassero	46	72	85
+andassi	46	72	81
+andassimo	46	72	83
+andaste	46	72	84
+andata	46	84
+andate	46	84
+andati	46	84
+andato	46	74
+andava	38	46	82
+andavamo	38	46	83
+andavano	38	46	85
+andavate	38	46	84
+andavi	38	46	81
+andavo	38	46	80
+andiamo	39	46	83
+andiate	46	72	84
+andra'	40	46	82
+andrai	40	46	81
+andranno	40	46	85
+andrebbe	46	72	82
+andrebbero	46	72	85
+andrei	46	72	80
+andremmo	46	72	83
+andremo	40	46	83
+andreste	46	72	84
+andresti	46	72	81
+andrete	40	46	84
+andro	40	46	80
+angel*	57	58
+angina	60	61
+angosc*	12	16	19
+angust*	12	16	17
+anima	57	58
+anneg*	12	13	17	59
+annoiare	12	16
+annulla*	7
+annuncio	51	54
+ano	60	61
+anomalia	12	16
+anoressi*	60	61	63
+ansi*	12	16	17
+antagonis*	12	16	18
+anticip*	46	47	50
+aperitivo	60	63
+apert*	74
+apolog*	31	32
+appag*	12	13
+appaia	27	28	72
+appaiano	27	28	72	85
+appaio	27	28	39	80
+appaiono	27	28	39	85
+appare	27	28	39	82
+apparendo	27	28	75
+apparente	20	22
+appari	27	28	39	81
+appariamo	27	28	39	83
+appariate	27	28	72	84
+apparira	27	28	40	82
+apparirai	27	28	40	81
+appariranno	27	28	40	85
+apparire	27	28	39
+apparirebbe	27	28	72	82
+apparirebbero	27	28	72	85
+apparirei	27	28	72	80
+appariremmo	27	28	72	83
+appariremo	27	28	40	83
+apparireste	27	28	72	84
+appariresti	27	28	72	81
+apparirete	27	28	40	84
+appariro	27	28	40	80
+apparisse	27	28	72	82
+apparissero	27	28	72	85
+apparissi	27	28	72
+apparissimo	27	28	72	83
+appariste	27	28	72	84
+apparite	27	28	39	84
+appariva	27	28	38	82
+apparivamo	27	28	38	83
+apparivano	27	28	38	85
+apparivate	27	28	38	84
+apparivi	27	28	38	81
+apparivo	27	28	38	80
+appars*	27	28	74
+appartament*	52
+apparve	27	28	38
+appassionata	12	13	14
+appassionate	12	13	14
+appassionati	12	13	14
+appassionato	12	13	14
+appendic*	60	61
+appetit*	60	63
+applicazione	47	48	49
+apprens*	12	16	17
+appresso	37
+approfitt*	12	13	15	56
+appropriarsi	12	16
+appropriato	20
+approv*	8
+apra	72
+aprano	72	85
+apre	39	82
+aprendo	75
+apri	39	81
+apriamo	39	83
+apriate	72	84
+aprile	37
+aprira	40	82
+aprirai	40	81
+apriranno	40	85
+aprirebbe	72	82
+aprirebbero	72	85
+aprirei	72	80
+apriremmo	72	83
+apriremo	40	83
+aprireste	72	84
+apriresti	72	81
+aprirete	40	84
+apriro	40	80
+aprisse	72	82
+aprissero	72	85
+aprissi	72
+aprissimo	72	83
+apriste	72	84
+aprite	39	84
+apriva	38	82
+aprivamo	38	83
+aprivano	38	85
+aprivate	38	84
+aprivi	38	81
+aprivo	38	80
+apro	39	80
+aprono	39	85
+area	41
+argoment*	20
+armonia	12	13	14
+arrabb*	12	16	18
+arrampic*	46	47	50
+arricciare	65
+arriva	39	46	82
+arrivare	39	46
+arrivato	46	74
+arrogan*	12	16	18
+arrogarsi	20	21
+arter*	60	61
+artrit*	60	61
+ascoltando	27	29	31	32	51	55
+ascoltare	27	29	31	32	39
+ascoltava	27	29	31	32	38
+ascolto	27	29	31	32	39
+asino	57
+asm*	60	61
+aspetta	20	24	39
+aspettare	20	24	39
+aspettativa	20	23
+aspettato	20	24	38
+aspettav*	20	24	38
+aspetter*	20	24	40
+aspetto	20	24	39
+aspir*	12	16	60	61
+assal*	12	16	18
+assassinio	57	59
+assegnare	12	13	15	47	50
+assemble*	31
+assest*	20
+assicur*	12	13	15	26
+assimil*	20
+assiste	12	13	14	39
+assistenza	12	13	14
+assistere	12	13	14	39
+assisteva	12	13	14	38
+associazio*	47	49
+assolut*	26
+assopit*	60	61	64
+assumere	20	21
+ateneo	47	48
+attaccamento	12	13	14
+attend*	20	24
+attesa	20	24
+attiv*	12	13
+attore	51	54
+attori	51	54
+attorniat*	38	41
+attorno	10	41
+attraent*	12	13
+attraverso	10	41
+attrice	51	54
+attrici	51	54
+audac*	12	13	15
+auditorium	47	48
+augur*	20	23
+autista	47
+autunno	37
+avanzamento	46	47	50
+avanzat*	46	47	50
+avendo	75
+averefiducia	12	13	15	39
+avesse	72	82
+avessero	72	85
+avessi	72
+avessimo	72	83
+aveste	72	84
+avete	39	84
+aveva	38	82
+avevamo	38	83
+avevano	38	85
+avevate	38	84
+avevi	38	81
+avevo	38	80
+avid*	12	16	18	56
+avra	40	82
+avrai	40	81
+avranno	40	85
+avrebbe	72	82
+avrebbero	72	85
+avrei	72	80
+avremmo	72	83
+avremo	40	83
+avreste	72	84
+avresti	72	81
+avrete	40	84
+avra	40	80
+avuto	74
+avvantaggiarsi	12	13	15	39
+avventur*	12	13	15
+avvert*	31	32
+avvicina	39	46
+avvicinament*	46
+avvicinare	39	46
+avvicinat*	38	46
+avvicinav*	38	46
+avviciner*	40	46
+avvicino	39	46
+avvol*	31
+baby	31	36
+bacino	60	61
+bacio	12	13	60	62
+bagn*	51	52	60	65
+baldoria	51
+ball*	46	51	55
+bambin*	31	36
+bancone	60	63
+banconi	60	63
+banda	31	51	55
+bar	31	51
+bara	57	59
+barric*	20	23
+barrier*	20	24
+baseball	51	53
+base	20	21
+basket	47	48	51	53
+bass*	41
+bastard*	12	16	18	66
+battere	51	55
+battito	60	61
+battuto	12	16	18	47	50
+bebe'	31	36
+bell*	12	13
+benche'	45
+benda	31	51	55
+bene	12	13	14
+bened*	12	13	57	58
+benign*	12	13
+bere	27	39	60	63
+berra	27	40	60	63	82
+berrai	27	40	60	63	81
+berranno	27	40	60	63	85
+berrebbe	27	60	63	72	82
+berrebbero	27	60	63	72	85
+berrei	27	60	63	72	80
+berremmo	27	60	63	72	83
+berremo	27	40	60	63	83
+berreste	27	60	63	72	84
+berresti	27	60	63	72	81
+berrete	27	40	60	63	84
+berro	27	40	60	63	80
+beva	27	60	63	72
+bevano	27	60	63	72	85
+beve	27	39	60	63	82
+bevendo	27	60	63	75
+bevente	27	60	63
+bevesse	27	60	63	72	82
+bevessero	27	60	63	72	85
+bevessi	27	60	63	72
+bevessimo	27	60	63	72	83
+beveste	27	60	63	72	84
+bevete	27	39	63	84
+beveva	27	38	60	63	82
+bevevamo	27	38	60	63	83
+bevevano	27	38	60	63	85
+bevevate	27	38	60	63	84
+bevevi	27	38	60	63	81
+bevevo	27	38	60	63	80
+bevi	27	39	60	63	81
+beviamo	27	39	60	63	83
+beviate	27	63	72	84
+bevitore	27	60	63
+bevo	27	39	63	80
+bevono	27	39	63	85
+bevuto	27	63	74
+biasim*	12	16	18	31	32
+Bibbia	57	58
+biblic*	57	58
+bibliotec*	47	48
+bimb*	31	36
+biologia	47	48
+birra	60	63
+bisogna	20	23
+bisogno	20	23
+blocc*	20	24
+bocca	60	61
+bocche	60	61
+bocchino	62
+bonta'	12	13
+boss	47	49
+braccia	60	61
+braccio	60	61
+bramos*	12	16	19
+brev*	37
+brillan*	12	13
+bronchite	60	61
+brontol*	12	16	18
+brutto	12	16	18
+budella	60	61
+buff*	12	13
+bugia	12	16
+bugiard*	12	16	18
+bugie	12	16
+buio	12	16	19
+bulimi*	60	61	63
+buon*	12	13
+business	47	49
+ce	1
+cada	46	72
+cadano	46	72	85
+cade	39	46	82
+cadendo	46	75
+cadente	46
+cadere	46
+cadesse	46	72	82
+cadessero	46	72	85
+cadessi	46	72
+cadessimo	46	72	83
+cadeste	46	72	84
+cadete	39	46	84
+cadeva	38	46	82
+cadevamo	38	46	83
+cadevano	38	46	85
+cadevate	38	46	84
+cadevi	38	46	81
+cadevo	38	46	80
+cadi	39	46	81
+cadiamo	39	46	83
+cadiate	46	72	84
+cado	39	46	80
+cadono	39	46	85
+cadra	40	46	82
+cadrai	40	46	81
+cadranno	40	46	85
+cadrebbe	46	72	82
+cadrebbero	46	72	85
+cadrei	46	72	80
+cadremmo	46	72	83
+cadremo	40	46	83
+cadreste	46	72	84
+cadresti	46	72	81
+cadrete	40	46	84
+cadro	40	46	80
+caduto	46	74
+calcio	47	48	51	53
+calcoli	60	61
+calcolo	20	22	25
+calm*	12	13
+cambia	39
+cambiando	39
+cambiano	39
+cambiare	39
+cambiat*	38
+cambiav*	38
+cambier*	40
+cambio	39
+camera	52
+camere	51	52
+campare	39	51	52
+campicchia	39	51	52
+campion*	47	50
+campo	41
+canale	51	54
+cancerogen*	60	61
+canceros*	60	61
+cancro	60	61
+capacita'	56
+capell*	60	61	65
+capezzol*	60	61	62
+capi'	20	22	38
+capiamo	20	22	39	83
+capire	20	22	39
+capisce	20	22	39	82
+capisci	20	22	39	81
+capisco	20	22	39	80
+capiscono	20	22	39	85
+capitare	39
+capitat*	38
+capitav*	38
+capiter*	40
+capiti	20	22	38	74
+capito	20	22	38	74
+capiv*	20	22	38
+capo	47	49
+cappellano	57	58
+capricc*	12	16
+cara	12	13	14
+cardiac*	60	61
+care	12	13	14
+cari	12	13	14
+carica	12	16	39
+caricare	12	16	39
+caricat*	12	16	38
+caricher*	12	16	40
+carin*	12	13
+carita'	12	16	19
+carne	60	61
+caro	12	13	14
+carriera	47	49
+carrozz*	47	48
+casa	51	52
+case	51	52
+caso	56
+casual*	25
+cattiv*	12	16	18
+cattolic*	57	58
+causa	20	21	22
+causare	20	21	22	39
+cause	20	21	22
+caverna	51
+cavigli*	60	61
+cazzate	12	16	18	66
+cazzo	66
+cd	51	55
+celebrat*	31	47	50
+celebre	12	13
+celebrita'	51	54
+cenere	57	59
+cento	11
+cerca	20	39	47	50
+cercare	20	39	47	50
+cercat*	20	38	47	50
+cercav*	20	38	47	50
+cercher*	20	40	47	50
+cert*	12	13	15	26
+cervello	60	61
+che	1	45
+checosa	20	21
+chiacchier*	27	29	31	32
+chiama	27	29	31	32	39
+chiamando	27	29	31	32
+chiamare	27	29	31	32	39
+chiamata	27	29	31	32
+chiamato	27	29	31	32	38
+chiamav*	27	29	31	32	38
+chiamo	27	29	31	32	39
+chiara	20	22	26
+chiaramente	20	22	26
+chiare	20	22	26
+chiari	20	22	26
+chiarific*	20	22	26
+chiaro	20	22	26
+chieda	31	32	72
+chiedano	31	32	72	85
+chiede	31	32	39	82
+chiedendo	31	32	75
+chiedente	31	32
+chiedera	31	32	40	82
+chiederai	31	32	40	81
+chiederanno	31	32	40	85
+chiedere	27	29	31	32	39
+chiederebbe	31	32	72	82
+chiederebbero	31	32	72	85
+chiederei	31	32	72	80
+chiederemmo	31	32	72	83
+chiederemo	31	32	40	83
+chiedereste	31	32	72	84
+chiederesti	31	32	72	81
+chiederete	31	32	40	84
+chiedero	31	32	40	80
+chiedesse	31	32	72	82
+chiedessero	31	32	72	85
+chiedessi	31	32	72
+chiedessimo	31	32	72	83
+chiedeste	31	32	72	84
+chiedete	31	32	39	84
+chiedeva	31	32	38	82
+chiedevamo	31	32	38	83
+chiedevano	31	32	38	85
+chiedevate	31	32	38	84
+chiedevi	31	32	38	81
+chiedevo	31	32	38	80
+chiedi	31	32	39	81
+chiediamo	27	29	31	32	39
+chiediate	31	32	72	84
+chiedo	31	32	39	80
+chiedono	31	32	39	85
+chiesa	57	58
+chiesto	31	32	74
+chitarra	51	55
+chiuda	46	72
+chiudano	46	72	85
+chiude	39	46	82
+chiudendo	46	75
+chiudente	46
+chiudera	40	46	82
+chiuderai	40	46	81
+chiuderanno	40	46	85
+chiudere	20	24	37	39
+chiuderebbe	46	72	82
+chiuderebbero	46	72	85
+chiuderei	46	72	80
+chiuderemmo	46	72	83
+chiuderemo	40	46	83
+chiudereste	46	72	84
+chiuderesti	46	72	81
+chiuderete	40	46	84
+chiudero'	40	46	80
+chiudesse	46	72	82
+chiudessero	46	72	85
+chiudessi	46	72
+chiudessimo	46	72	83
+chiudeste	46	72	84
+chiudete	39	46	84
+chiudeva	38	46	82
+chiudevamo	38	46	83
+chiudevano	38	46	85
+chiudevate	38	46	84
+chiudevi	38	46	81
+chiudevo	38	46	80
+chiudi	39	46	81
+chiudiamo	39	46	83
+chiudiate	46	72	84
+chiudo	39	46	80
+chiudono	39	46	85
+chiunque	1	25	31	33
+chiusi	20	24	37	38
+chiuso	74
+chiusura	20	22	47	50
+ci	1	3	4	31
+ciao	31	32
+ciclist*	51	53
+cielo	12	13	57	58
+cimiter*	57	59
+cinem*	51	54
+cinic*	12	16	18
+cio'	44
+cioe'	20	68
+circa	10
+circonda	39	41
+circondare	39	41
+circondat*	38	41
+circondav*	38	41
+circonder*	40	41
+cist*	60	61
+class*	47	48
+claudicante	12	16
+clemen*	12	13	14	20	22	31
+coeren*	20	22
+cofanetto	57	59
+cogli	39	46	81
+cogliamo	39	46	83
+cogliate	46	72	84
+coglie	39	46	82
+cogliendo	46	75
+cogliera	40	46	82
+coglierai	40	46	81
+coglieranno	40	46	85
+cogliere	46
+coglierebbe	46	72	82
+coglierebbero	46	72	85
+coglierei	46	72	80
+coglieremmo	46	72	83
+coglieremo	40	46	83
+cogliereste	46	72	84
+coglieresti	46	72	81
+coglierete	40	46	84
+cogliero	40	46	80
+cogliesse	46	72	82
+cogliessero	46	72	85
+cogliessi	46	72
+cogliessimo	46	72	83
+coglieste	46	72	84
+cogliete	39	46	84
+coglieva	38	46	82
+coglievamo	38	46	83
+coglievano	38	46	85
+coglievate	38	46	84
+coglievi	38	46	81
+coglievo	38	46	80
+coglioni	66
+cognat*	31	35
+coinvol*	31
+col	10
+colazione	60	63
+colesterol*	60	61
+colga	46	72
+colgano	46	72	85
+colgo	39	46	80
+colgono	39	46	85
+collabor*	31	47	49
+collega	31	34	47	49
+colleghi	31	34	47	49
+collegio	47	48
+collera	12	16	18
+collo	60	61
+colloca*	41
+colon	60	61
+coloro	44
+colpa	12	16
+colpe	12	16
+colpevol*	12	16
+colpo	51	55
+colto	46	74
+com'e'	20	21	39
+coma	60	61	64
+comandament*	57	58
+comatos*	60	61	64
+combatte	12	16	18	31	32	39
+combattera'	12	16	18	31	32	40
+combattere	12	16	18	31	32	39
+combatteremo	12	16	18	31	32	40
+combattero'	12	16	18	31	32	40
+combattev*	12	16	18	31	32	38
+combatti	12	16	18	31	32	39
+combatto	12	16	18	31	32	39
+combattuto	12	16	18	31	32	74
+come	20	21
+comincia	37	39
+cominciare	37	39
+cominciat*	37	38
+cominciav*	37	38
+comitiva	31	51	55
+commedi*	51	54
+comment*	31	32
+commercial*	47	49	51	54
+commilitone	31	34
+commoss*	12	20	21	38
+compactdisk	51	55
+compagna	31	34	36
+compagni	31	34	36
+compagnia	47	49
+compagnie	47	49
+compagno	31	34	36
+compagnodiscuo	31	34
+compare	27	28	39
+comparire	27	28	39
+compars*	27	28	38
+comparv*	27	28	38
+compassion*	12	16	19
+compet*	47	50
+compiac*	12	13
+compit*	47	48	51	52
+complessiv*	26	44
+completa	20
+completamente	26
+completando	20	37
+completare	20	37	39
+completat*	20	37	38
+completav*	20	37	38
+complete	20
+completer*	20	37	40
+completezza	20
+completi	20
+completo	20
+complicato	12	16
+comportamento	20	31
+comprai	38	56
+comprammo	38	56
+comprare	39	56
+comprato	38	56
+comprav*	38	56
+compravendit*	47	48	49
+compre*	20	22
+computer	47
+comunica*	31	32
+comunione	57	58
+comunque	45
+conceda	12	13	72
+concedano	12	13	72	85
+concede	12	13	39	82
+concedendo	12	13	75
+concedente	12	13
+concedera	12	13	40	82
+concederai	12	13	40	81
+concederanno	12	13	40	85
+concedere	12	13
+concederebbe	12	13	72	82
+concederebbero	12	13	72	85
+concederei	12	13	72	80
+concederemmo	12	13	72	83
+concederemo	12	13	40	83
+concedereste	12	13	72	84
+concederesti	12	13	72	81
+concederete	12	13	40	84
+concedero	12	13	40	80
+concedesse	12	13	72	82
+concedessero	12	13	72	85
+concedessi	12	13	72
+concedessimo	12	13	72	83
+concedeste	12	13	72	84
+concedete	12	13	39	84
+concedeva	12	13	38	82
+concedevamo	12	13	38	83
+concedevano	12	13	38	85
+concedevate	12	13	38	84
+concedevi	12	13	38	81
+concedevo	12	13	38	80
+concedi	12	13	39	81
+concediamo	12	13	39	83
+concediate	12	13	72	84
+concedo	12	13	39	80
+concedono	12	13	39	85
+concentr*	12	13	20	22
+concern*	20
+concert*	51	55
+concesso	12	13	74
+conclu*	20	22	50
+condom	60	62
+condominio	52
+condott*	74
+conduca	72
+conducano	72	85
+conduce	39	82
+conducendo	75
+conducente	47
+conducesse	72	82
+conducessero	72	85
+conducessi	72
+conducessimo	72	83
+conduceste	72	84
+conducete	39	84
+conduceva	38	82
+conducevamo	38	83
+conducevano	38	85
+conducevate	38	84
+conducevi	38	81
+conducevo	38	80
+conduci	39	81
+conduciamo	39	83
+conduciate	72	84
+conduco	39	80
+conducono	39	85
+condurra	40	82
+condurrai	40	81
+condurranno	40	85
+condurre	39
+condurrebbe	72	82
+condurrebbero	72	85
+condurrei	72	80
+condurremmo	72	83
+condurremo	40	83
+condurreste	72	84
+condurresti	72	81
+condurrete	40	84
+condurro	40	80
+conduss*	38	72
+conferenz*	47	49
+conferma	20	39
+confermando	20	75
+confermare	20	39
+confermat*	20	38
+confermav*	20	38
+confermer*	20	40
+confermo	20	39
+confess*	20	22	31	32	57	58
+confida	20	31	32
+confidai	20	31	32	38	80
+confidare	20	31	32	39
+confidarsi	20	31	32
+confidav*	20	31	32	38
+confidenz*	12
+confido	20	31	32	39	80
+conflitt*	20	25
+conforta	12	13	14	39
+confortare	12	13	14	39
+confortat*	12	13	14	38
+confortav*	12	13	14	38
+confortevo	le	12	13	14
+conforto	12	13	14
+confront*	12	16	20
+confusione	12	16
+confuso	12	16
+congest*	60	61
+conosca	20	22	72
+conoscano	20	22	72	85
+conosce	20	22	39	82
+conoscendo	20	22	75
+conoscente	20	22
+conoscenz*	20	22
+conoscera	20	22	40	82
+conoscerai	20	22	40	81
+conosceranno	20	22	40	85
+conoscere	20	22	39
+conoscerebbe	20	22	72	82
+conoscerebbero	20	22	72	85
+conoscerei	20	22	72	80
+conosceremmo	20	22	72	83
+conosceremo	20	22	40	83
+conoscereste	20	22	72	84
+conosceresti	20	22	72	81
+conoscerete	20	22	40	84
+conoscero	20	22	40	80
+conoscesse	20	22	72	82
+conoscessero	20	22	72	85
+conoscessi	20	22	72
+conoscessimo	20	22	72	83
+conosceste	20	22	72	84
+conoscete	20	22	39	84
+conosceva	20	22	38	82
+conoscevamo	20	22	38	83
+conoscevano	20	22	38	85
+conoscevate	20	22	38	84
+conoscevi	20	22	38	81
+conoscevo	20	22	38	80
+conosci	20	22	39	81
+conosciamo	20	22	39	83
+conosciate	20	22	72	84
+conosciuta	20	22	74
+conosciuto	20	22	74
+conosco	20	22	39	80
+conoscono	20	22	39	85
+consacr*	57	58
+consanguign*	31	35
+consapevol*	20	22
+consegn*	46
+consequen*	20	21
+conserva	39
+conservare	39
+conservav*	38
+consicurezza	12	13	15	26
+considerare	20	22	39
+consideraz*	20	22
+consigl*	31	32
+consol*	12
+conta	20	21	39	82
+contag*	60	61
+contanti	56
+contare	20	21	39
+contatt*	31	32
+contava	20	21	38	82
+content*	12	13
+conti	20	22
+continu*	37
+conto	20	22
+contraddi*	12	16	18	20	24
+contro	10
+controll*	20	24
+convers*	31	32
+convin*	12	13	15	26
+convitto	47	48
+copert*	74
+copra	72
+coprano	72	85
+copre	39	82
+coprendo	75
+copri	39	81
+copriamo	39	83
+copriate	72	84
+coprira	40	82
+coprirai	40	81
+copriranno	40	85
+coprirebbe	72	82
+coprirebbero	72	85
+coprirei	72	80
+copriremmo	72	83
+copriremo	40	83
+coprireste	72	84
+copriresti	72	81
+coprirete	40	84
+copriro	40	80
+coprisse	72	82
+coprissero	72	85
+coprissi	72
+coprissimo	72	83
+copriste	72	84
+coprite	39	84
+copriva	38	82
+coprivamo	38	83
+coprivano	38	85
+coprivate	38	84
+coprivi	38	81
+coprivo	39	80
+coprono	39	85
+coragg*	12	13	15
+cornut*	12	16	18	66
+coronar*	60	61
+corp*	60	61
+corra	46	72
+corrano	46	72	85
+corre	39	46	82
+correndo	46	75
+corrente	46
+correra	40	46	82
+correrai	40	46	81
+correranno	40	46	85
+correre	46
+correrebbe	46	72	82
+correrebbero	46	72	85
+correrei	46	72	80
+correremmo	46	72	83
+correremo	40	46	83
+correreste	46	72	84
+correresti	46	72	81
+correrete	40	46	84
+correro	40	46	80
+corresse	46	72	82
+corressero	46	72	85
+corressi	46	72
+corressimo	46	72	83
+correste	46	72	84
+correte	39	46	84
+correva	38	46	82
+correvamo	38	46	83
+correvano	38	46	85
+correvate	38	46	84
+correvi	38	46	81
+correvo	38	46	80
+corri	39	46	81
+corriamo	39	46	83
+corriate	46	72	84
+corro	39	46	80
+corrono	39	46	85
+corse	38	46
+corsi	38	46
+corso	47	48
+corteggiamento	12	13
+cosa	68
+coscienza	20	22
+cosi'	10
+costerna*	12	16
+costo	56
+costos*	56
+costrizione	20	24
+costrutt*	20	22
+covo	52
+creare	12	13	20	22	47	50
+creativ*	12	13
+crede	20	22	39	82
+credente	20	22	58
+credenziali	47	49
+credere	20	22	39
+credeva	20	22	38	82
+credo	20	22	39	80
+creduto	20	22	38	74
+crema*	57	59
+crep*	12	16	18
+cresca	72
+crescano	72	85
+cresce	31	36	39
+cresce	39	82
+crescendo	75
+crescera	40	82
+crescerai	40	81
+cresceranno	40	85
+crescerebbe	72	82
+crescerebbero	72	85
+crescerei	72	80
+cresceremmo	72	83
+cresceremo	40	83
+crescereste	72	84
+cresceresti	72	81
+crescerete	40	84
+crescero	40	80
+crescesse	72	82
+crescessero	72	85
+crescessi	72
+crescessimo	72	83
+cresceste	72	84
+crescete	39	84
+cresceva	38	82
+crescevamo	38	83
+crescevano	38	85
+crescevate	38	84
+crescevi	38	81
+crescevo	38	80
+cresci	39	81
+cresciamo	39	83
+cresciate	72	84
+cresciuto	74
+cresco	39	80
+crescono	39	85
+crescita	31	36
+cristian*	57	58
+cristo	57	58
+crocier*	51
+crudel*	12	16	18
+cucciol*	31	36
+cucin*	51	52	63
+cugin*	31	35
+culo	60	61	66
+cuoc*	63
+cuore	60	61
+cupi	12	16	19
+cupo	12	16	19
+cura	60	61
+curarmi	1	2	4	12	13	14	60	61
+curarsi	12	13	14	60	61
+curav*	12	13	14	38	60	61
+curriculum	47	48
+custodire	20	24
+da	10
+daccordo	8	12	13	14	20
+dai	31	32	39	81
+dando	31	32	75
+dandoci	1	3	4	12	13	31	32
+dann*	12	16	18
+danno	31	32	39	85
+danz*	46	47	48	51	55
+daora	20	21
+dar	31	32	39
+dara'	31	32	40	82
+darai	31	32	40	81
+daranno	31	32	40	85
+dare	31	32	39
+darebbe	31	32	72	82
+darebbero	31	32	72	85
+darei	31	32	72	80
+daremmo	31	32	72	83
+daremo	31	32	40	83
+dareste	31	32	72	84
+daresti	31	32	72	81
+darete	31	32	40	84
+daro'	31	32	40	80
+date	31	32	39	84
+dato	31	32	74
+dava	31	32	38	82
+davamo	31	32	38	83
+davano	31	32	38	85
+davate	31	32	38	84
+davi	31	32	38	81
+davo	31	32	38	80
+debit*	56
+debolezza	12	16	60	61
+decade	12	16
+decadenza	12	16	57
+decadimento	12	16	57	59
+decedut*	57	59
+decennio	37
+decesso	57	59
+decida	20	22	72
+decidano	20	22	72	85
+decide	20	22	39	82
+decidendo	20	22	75
+decidera	20	22	40	82
+deciderai	20	22	40	81
+decideranno	20	22	40	85
+deciderebbe	20	22	72	82
+deciderebbero	20	22	72	85
+deciderei	20	22	72	80
+decideremmo	20	22	72	83
+decideremo	20	22	40	83
+decidereste	20	22	72	84
+decideresti	20	22	72	81
+deciderete	20	22	40	84
+decidero	20	22	40	80
+decidesse	20	22	72	82
+decidessero	20	22	72	85
+decidessi	20	22	72
+decidessimo	20	22	72	83
+decideste	20	22	72	84
+decidete	20	22	39	84
+decideva	20	22	38	82
+decidevamo	20	22	38	83
+decidevano	20	22	38	85
+decidevate	20	22	38	84
+decidevi	20	22	38	81
+decidevo	20	22	38	80
+decidi	20	22	39	81
+decidiamo	20	22	39	83
+decidiate	20	22	72	84
+decido	20	22	39	80
+decidono	20	22	39	85
+decis*	20	22	20	22
+deciso	20	22	74
+dedotto	20	21	38	74
+deduce	20	21	39	82
+deducendo	20	21	75
+deduttivo	20	21
+defezione	12	16
+definendo	20
+definente	20
+definit*	26
+degrad*	12	16
+dei	10
+delicat*	12	13
+delizi*	12	13
+deluda	12	16	19	72
+deludano	12	16	19	72	85
+delude	12	16	19	39	82
+deludendo	12	16	19	75
+deludente	12	16	19
+deludere	12	16	19	40	82
+deluderai	12	16	19	40	81
+deluderanno	12	16	19	40	85
+deludere	12	16	19
+deluderebbe	12	16	19	72	82
+deluderebbero	12	16	19	72	85
+deluderei	12	16	19	72	80
+deluderemmo	12	16	19	72	83
+deluderemo	12	16	19	40	83
+deludereste	12	16	19	72	84
+deluderesti	12	16	19	72	81
+deluderete	12	16	19	40	84
+deludera	12	16	19	40	80
+deludesse	12	16	19	72	82
+deludessero	12	16	19	72	85
+deludessi	12	16	19	72
+deludessimo	12	16	19	72	83
+deludeste	12	16	19	72	84
+deludete	12	16	19	39	84
+deludeva	12	16	19	38	82
+deludevamo	12	16	19	38	83
+deludevano	12	16	19	38	85
+deludevate	12	16	19	38	84
+deludevi	12	16	19	38	81
+deludevo	12	16	19	38	80
+deludi	12	16	19	39	81
+deludiamo	12	16	19	39	83
+deludiate	12	16	19	72	84
+deludo	12	16	19	39	80
+deludono	12	16	19	39	85
+deluso	12	16	19	74
+demoralizzarsi	12	16	19
+demoralizzat*	12	16	19
+denaro	56
+denigr*	20	24
+dentro	44
+depress*	12	16	19
+deprimente	12	16	19
+descrisse	20	31	32	38
+descrittivo	20	31	32
+descritto	20	31	32	74
+descrive	20	31	32	39
+descrivendo	20	31	32
+descrivere	20	31	32	39
+descrivev*	20	31	32	38
+desidera	20	23	39
+desiderano	20	23	39
+desiderare	20	23	39
+desiderat*	20	23	38
+desiderav*	20	23	38
+desideri	20	23
+desideriamo	20	23	39	83
+desidero	20	23	39	80
+desse	31	32	72	82
+dessimo	31	32	72	83
+dessero	31	32	72	85
+dessert	60	63
+dessi	31	32	72
+deste	31	32	72
+destin*	12	16	19
+deterior*	57	59
+determina*	12	13	15	20	22	47
+detto	27	29	31	32	74
+deva	20	72
+devano	20	72	85
+devast*	12
+deve	20	39	82
+devi	20	39	81
+devo	20	39	80
+devono	20	39	85
+devot*	12	13	14
+devozione	12	13	14
+di	10
+dia	31	32	72
+diabet*	60	61
+diabolico	12	16	57	58
+diacono	47	48
+diamo	31	32	39	83
+diano	31	32	39	85
+diate	31	32	72	84
+diavolo	12	16	57	58
+dibuonumore	12	13
+dice	27	29	31	32	39	82
+dicembre	37
+dicevo	27	29	31	32	80
+dicevi	27	29	31	32	81
+diceva	27	29	31	32	82
+dicevamo	27	29	31	32	83
+dicevate 	27	29	31	32	84
+dicevano	27	29	31	32	85
+dici	27	29	31	32	39	81
+diciamo	27	29	31	32	39	83
+dico	27	29	31	32	39	80
+dicono	27	29	31	32	39	85
+diede	31	32	38
+diet*	60	63
+difatti	8	26
+difenda	12	16	72
+difendano	12	16	72	85
+difende	12	16	39	82
+difendendo	12	16	75
+difendente	12	16
+difendera	12	16	40	82
+difenderai	12	16	40	81
+difenderanno	12	16	40	85
+difendere	12	16
+difenderebbe	12	16	72	82
+difenderebbero	12	16	72	85
+difenderei	12	16	72	80
+difenderemmo	12	16	72	83
+difenderemo	12	16	40	83
+difendereste	12	16	72	84
+difenderesti	12	16	72	81
+difenderete	12	16	40	84
+difendero	12	16	40	80
+difendesse	12	16	72	82
+difendessero	12	16	72	85
+difendessi	12	16	72
+difendessimo	12	16	72	83
+difendeste	12	16	72	84
+difendete	12	16	39	84
+difendeva	12	16	38	82
+difendevamo	12	16	38	83
+difendevano	12	16	38	85
+difendevate	12	16	38	84
+difendevi	12	16	38	81
+difendevo	12	16	38	80
+difendi	12	16	39	81
+difendiamo	12	16	39	83
+difendiate	12	16	72	84
+difendo	12	16	39	80
+difendono	12	16	39	85
+difesa	12	16	18	20	24
+difeso	12	16	74
+difett*	12	16
+differenza	23
+difficil*	12	16
+difficolta	12	16
+diffid*	12	16	18
+dignit*	12	13
+diletta	12	13	14
+diletti	12	13	14
+diletto	12	13	14
+diminuita	11
+dinam*	12	13
+diniego	20	24
+Dio	57	58
+dipartimento	47	48	49
+dipenda	20	21	25	72
+dipendano	20	21	25	72	85
+dipende	20	21	25	39	82
+dipendendo	20	21	25	75
+dipendent*	20	21	25
+dipendente	20	21	25
+dipender÷	20	21	25	40	82
+dipenderai	20	21	25	40	81
+dipenderanno	20	21	25	40	85
+dipendere	20	21	25	39
+dipenderebbe	20	21	25	72	82
+dipenderebbero	20	21	25	72	85
+dipenderei	20	21	25	72	80
+dipenderemmo	20	21	25	72	83
+dipenderemo	20	21	25	40	83
+dipendereste	20	21	25	72	84
+dipenderesti	20	21	25	72	81
+dipenderete	20	21	25	40	84
+dipendero	20	21	25	40	80
+dipendesse	20	21	25	72	82
+dipendessero	20	21	25	72	85
+dipendessi	20	21	25	72
+dipendessi	mo	20	21	25	72	83
+dipendeste	20	21	25	72	84
+dipendete	20	21	25	39	84
+dipendeva	20	21	25	38	82
+dipendevamo	20	21	25	38	83
+dipendevano	20	21	25	38	85
+dipendevate	20	21	25	38	84
+dipendevi	20	21	25	38	81
+dipendevo	20	21	25	38	80
+dipendi	20	21	25	39	81
+dipendiamo	20	21	25	39	83
+dipendiate	20	21	25	72	84
+dipendo	20	21	25	39	80
+dipendono	20	21	25	39	85
+dipeso	20	21	25	74
+dire	27	29	31	32	39
+dirai	27	29	31	32	40	81
+diranno	27	29	31	32	40	83
+direi	27	29	31	32	72	80
+diresti	27	29	31	32	72	81
+direbbe	27	29	31	32	72	82
+diremmo	27	29	31	32	72	83
+direste	27	29	31	32	72	84
+direbbero	27	29	31	32	72	85
+direte	27	29	31	32	84	40
+dirigere	47	49	39
+dirimpetto	31	52
+diro	27	29	31	32	40	80
+disagio	12	16	17
+disapprov*	12	16
+disastr*	12	16
+discusso	27	29	31	32	74
+discuta	27	29	31	32	72
+discutano	27	29	31	32	72	85
+discute	27	29	31	32	39	82
+discutendo	27	29	31	32	75
+discutente	27	29	31	32
+discutera	27	29	31	32	40	82
+discuterai	27	29	31	32	40	81
+discuteranno	27	29	31	32	40	85
+discutere	27	29	31	32
+discuterebbe	27	29	31	32	72	82
+discuterebbero	27	29	31	32	72	85
+discuterei	27	29	31	32	72	80
+discuteremmo	27	29	31	32	72	83
+discuteremo	27	29	31	32	40	83
+discutereste	27	29	31	32	72	84
+discuteresti	27	29	31	32	72	81
+discuterete	27	29	31	32	40	84
+discutero	27	29	31	32	40	80
+discutesse	27	29	31	32	72	82
+discutessero	27	29	31	32	72	85
+discutessi	27	29	31	32	72
+discutessimo	27	29	31	32	72	83
+discuteste	27	29	31	32	72	84
+discutete	27	29	31	32	39	84
+discuteva	27	29	31	32	38	82
+discutevamo	27	29	31	32	38	83
+discutevano	27	29	31	32	38	85
+discutevate	27	29	31	32	38	84
+discutevi	27	29	31	32	38	81
+discutevo	27	29	31	32	38	80
+discuti	27	29	31	32	39	81
+discutiamo	27	29	31	32	39	83
+discutiate	27	29	31	32	72	84
+discuto	27	29	31	32	39	80
+discutono	27	29	31	32	39	85
+disgust*	12	16	18
+disoccupat*	47	49
+disoccupazione	7	47	49
+disorient*	25
+dispera	12	16	19
+dispiac*	12	16
+disprezz*	12	16	18
+distan*	41
+distes*	12	13
+distingua	20	22	72
+distinguano	20	22	72	85
+distingue	20	22	39	82
+distinguendo	20	22	75
+distinguente	20	22	     
+distinguera	20	22	40	82
+distinguerai	20	22	40	81
+distingueranno	20	22	40	85
+distinguere	20	22
+distinguerebbe	20	22	72	82
+distinguerei	20	22	72	80
+distingueremmo	20	22	72	83
+distingueremo	20	22	40	83
+distinguereste	20	22	72	84
+distingueresti	20	22	72	81
+distinguerete	20	22	40	84
+distinguero	20	22	40	80
+distinguesse	20	22	72	82
+distinguessero	20	22	72	85
+distinguessi	20	22	72
+distinguessimo	20	22	72	83
+distingueste	20	22	72	84
+distinguete	20	22	39	84
+distingueva	20	22	38	82
+distinguevamo	20	22	38	83
+distinguevano	20	22	38	85
+distinguevate	20	22	38	84
+distinguevi	20	22	38	81
+distinguevo	20	22	38	80
+distingui	20	22	39	81
+distinguiamo	20	22	39	83
+distinguiate	20	22	72	84
+distinguo	20	22	39	80
+distinguono	20	22	39	85
+distintamente	26
+distinto	20	22	74
+distrugga	12	16	18	72
+distruggano	12	16	18	72	85
+distrugge	12	16	18	39	82
+distruggendo	12	16	18	75
+distruggente	12	16	18
+distruggera	12	16	18	40	82
+distruggerai	12	16	18	40	81
+distruggeranno	12	16	18	40	85
+distruggere	12	16	18
+distruggerebbe	12	16	18	72	82
+distruggerei	12	16	18	72	80
+distruggeremmo	12	16	18	72	83
+distruggeremo	12	16	18	40	83
+distruggereste	12	16	18	72	84
+distruggeresti	12	16	18	72	81
+distruggerete	12	16	18	40	84
+distruggero	12	16	18	40	80
+distruggesse	12	16	18	72	82
+distruggessero	12	16	18	72	85
+distruggessi	12	16	18	72
+distruggessimo	12	16	18	72	83
+distruggeste	16	18	72	84	  
+distruggete	12	16	18	39	84
+distruggeva	12	16	18	38	82
+distruggevamo	12	16	18	38	83
+distruggevano	12	16	18	38	85
+distruggevate	12	16	18	38	84
+distruggevi	12	16	18	38	81
+distruggevo	12	16	18	38	80
+distruggi	12	16	18	39	81
+distruggiamo	12	16	18	39	83
+distruggiate	12	16	18	72	84
+distruggo	12	16	18	39	80
+distruggono	12	16	18	39	85
+distrutto	12	16	18	74
+disturba	12	16	17	82
+disturbano	12	16	17	85
+disturbate	12	16	17	84
+disturbo	12	16	17
+disturbat*	12	16	17
+disturbi	12	16	17
+dita	60	61
+dite	27	29	31	32	39	84
+dito	60	61
+divenendo	20
+divenire	20	39
+diventa	20	39
+diventare	20	39
+diventato	20	22	38
+divenuto	20	22	38
+divert*	12	13
+divida	45	72
+dividano	45	72	85
+divide	39	45	82
+dividente	45
+dividera	40	45	82
+dividerai	40	45	81
+divideranno	40	45	85
+dividere	45
+dividerebbe	45	72	82
+dividerebbero	45	72	85
+dividerei	45	72	80
+divideremmo	45	72	83
+divideremo	40	45	83
+dividereste	45	72	84
+divideresti	45	72	81
+dividerete	40	45	84
+dividero	40	45	80
+dividesse	45	72	82
+dividessero	45	72	85
+dividessi	45	72
+dividessimo	45	72	83
+divideste	45	72	84
+dividete	39	45	84
+divideva	38	45	82
+dividevamo	38	45	83
+dividevano	38	45	85
+dividevate	38	45	84
+dividevi	38	45	81
+dividevo	38	45	80
+dividi	39	45	81
+dividiamo	39	45	83
+dividiate	45	72	84
+divido	39	45	80
+dividono	39	45	85
+diviene	20	39
+diviet*	12	16	20	24
+divin*	12	13	57	58
+diviso	45	74
+do	31	32	39	80
+dobbiamo	20	39	83
+dobbiate	20	72	84
+dolc*	12	13	27
+dolente	12	16	60	61
+dollaro	56
+dolor*	12	16	60	61
+domandare	27	29	31	32	39
+domandato	27	29	31	32	38
+domando	27	29	31	32	39
+domare	12	13
+domattina	37	40
+domin*	12	16	18
+dopo	10	37
+dopodiche'	10	37	44
+dopodicio'	10	37	44
+dormiente	60	64
+dormire	39	60	64
+dormiro'	40	60	64
+dormito	38	60	64
+dormivo	38	60	64
+dormo	39	60	64
+dovendo	20	75
+dovere	20	23
+doverlo	1	38
+dovesse	20	72	82
+dovessero	20	72	85
+dovessi	20	72
+dovessimo	20	72	83
+doveste	20	72	84
+dovete	20	39	84
+dovett*	38	56
+doveva	20	38	82
+dovevamo	20	38	83
+dovevano	20	38	85
+dovevate	20	38	84
+dovevi	20	38	81
+dovevo	20	38	80
+dovra'	20	40	82
+dovrai	20	40	81
+dovranno	20	40	85
+dovrebbe	20	72	82
+dovrebbero	20	72	85
+dovrei	20	72	80
+dovremmo	20	72	83
+dovremo	20	40	83
+dovreste	20	72	84
+dovresti	20	72	81
+dovrete	20	40	84
+dovro	20	40	80
+dovunque	25	41
+dovuto	20	74
+dramma	51	54
+droghiere	60	63
+dub*	12	16	20	25
+due	11
+durante	37
+e'	39	77	82
+ebraic*	57	58
+ebrea	57	58
+ebree	57	58
+ebrei	57	58
+ebreo	57	58
+eccell*	12	13	15	47	50
+eccetera	68
+eccett*	45
+eccit*	12	13	60	61	62
+ecco	39	41	44
+ecograf*	60	61
+economia	47	49	56
+economicamente	47	49	56
+economici	56
+educa*	47	48
+effett*	20	21	22
+efficient*	12	13	15
+egli	1	6	31	33
+egois*	12	16
+egotis*	12	16
+eh	67
+ehm	67
+elogi*	31	32	50
+emicrania	60	61
+emorragi*	60	61
+emotiv*	12	16	17
+energ*	12	13
+enfisema	60	61
+enorm*	41
+entra	39	46	82
+entrando	46
+entrante	46
+entrare	39	46
+entrava	38	46	82
+entrer*	40	46
+entro'	38	46
+entusias*	12	13	15
+epoca	37
+era	38	82
+erano	38	85
+eravamo	38	83
+eravate	38	84
+ered*	56
+erettiv*	60	61	62
+erezione	60	61	62
+eri	38	81
+ero	38	80
+eroe	12	13	15
+eroi	12	13	15
+esame	47	48
+esami	47	48
+esaminando	20	22
+esaminante	20	22
+esaminare	20	22
+esaminato	20	22
+esasper*	12	16	18
+esatt*	26
+esca	46	72
+escano	46	72	85
+esce	39	46	82
+esci	39	46	81
+escludere	45
+esclusi	45
+escluso	45
+esco	39	41	46	80
+escono	39	41	46	85
+escurs*	46	51
+esegu*	20	21	22
+esequie	57	59
+esercito	31
+eserciz*	48	53
+esig*	26
+esista	72
+esistano	72	85
+esiste	39	82
+esistendo	75
+esistera	40	82
+esisterai	40	81
+esisteranno	40	85
+esisterebbe	72	82
+esisterebbero	72	85
+esisterei	72	80
+esisteremmo	72	83
+esisteremo	40	83
+esistereste	72	84
+esisteresti	72	81
+esisterete	40	84
+esistero	40	80
+esistesse	72	82
+esistessero	72	85
+esistessi	72
+esistessimo	72	83
+esisteste	72	84
+esistete	39	84
+esisteva	38	82
+esistevamo	38	83
+esistevano	38	85
+esistevate	38	84
+esistevi	38	81
+esistevo	38	80
+esisti	39	81
+esistiamo	39	83
+esistiate	72	84
+esistito	74
+esisto	39	80
+esistono	39	85
+esita	12	16	17	20	24	25	82
+esitante	12	16	17	20	24	25
+esitazione	12	16	17	20	24	25
+esord*	37
+esplicativo	20	22	31	32
+esplor*	20	22	46
+espressa	12	31	32	39
+espresse	12	31	32	39
+espressi	12	31	32	39
+espressiv*	12	31	32
+espresso	12	31	32	38
+esprime	12	31	32	39
+esprimendo	12	32	32
+esprimere	12	31	32	39
+esprimess*	12	31	32	38
+esprimeva	12	31	32	38
+esprimo	12	31	32	39
+essendo	75
+essere	39
+esso	1
+est	41
+estasi	12	13	14
+estet*	12	13
+etern*	37	57	58
+evit*	12	16	20	24
+fa	39	82
+facce	60	61
+faccia	60	61
+facciamo	39	83
+facciano	72	85
+facciate	72	84
+faccio	39	80
+facendo	75
+facesse	72	82
+facessero	72	85
+facessi	72
+facessimo	72	83
+faceste	72	84
+faceva	38	82
+facevamo	38	83
+facevano	38	85
+facevate	38	84
+facevi	38	81
+facevo	38	80
+facil*	12	13	15
+fai	39	81
+fama	12	13	15
+fame	60	61	63
+famigl*	31	35	51	52
+famil*	31	35	51	52
+famoso	12	13	15
+fanno	39	85
+fantastica	12	13
+fantastiche	12	13
+fantastici	12	13
+fantastico	12	13
+fara	40	82
+farai	40	81
+faranno	40	85
+fare	39
+farebbe	72	82
+farebbero	72	85
+farei	72	80
+faremmo	72	83
+faremo	40	83
+fareste	72	84
+faresti	72	81
+farete	40	84
+farin*	60	63
+farl*	1	39
+faro	40	80
+fastid*	12	16
+fatale	12	16	57	59
+fate	39	84
+faticos*	12	16	19	60	61	64
+fatto	74
+favor*	12	13
+febbraio	37
+febbre	60	61
+febbricitante	60	61
+febbrile	60	61
+fece	38
+fede*	12	13	15	26	57	58
+fegato	60	61
+felic*	12	13	14
+femm*	31	36
+ferire	12	16	19
+ferita	12	16	19
+feroce	12	16	19
+festa	12	13	31
+festiv*	12	13
+fibroma	60
+fida	12	13	15
+fidandosi	6	31	32	33
+fidanzat*	31	34
+fidarsi	6	12	13	15
+fido	12	13	15
+fiduc*	12	13	15	26
+fier*	12	13	15
+figli*	31	35
+figur*	20	22
+figurati	7
+figuriamoci	7
+fila	39	46
+filano	39	46
+filare	39	46
+filav*	38	46
+filial*	31	35
+film	51	54
+filosof*	47	48
+finale	37
+finanz*	47	49	56
+fine	20	37
+finga	31	72
+fingano	31	72	85
+finge	31	39	82
+fingendo	31	75
+fingera	31	40	82
+fingerai	31	40	81
+fingeranno	31	40	85
+fingere	31
+fingerebbe	31	72	82
+fingerebbero	31	72	85
+fingerei	31	72	80
+fingeremmo	31	72	83
+fingeremo	31	40	83
+fingereste	31	72	84
+fingeresti	31	72	81
+fingerete	31	40	84
+fingero	31	40	80
+fingesse	31	72	82
+fingessero	31	72	85
+fingessi	31	72
+fingessimo	31	72	83
+fingeste	31	72	84
+fingete	31	39	84
+fingeva	31	38	82
+fingevamo	31	38	83
+fingevano	31	38	85
+fingevate	31	38	84
+fingevi	31	38	81
+fingevo	31	38	80
+fingi	31	39	81
+fingiamo	31	39	83
+fingiate	31	72	84
+fingo	31	39	80
+fingono	31	39	85
+finire	20	37	39
+finisca	20	37	39
+fino	37
+fint*	31	74
+fisicamente	60
+fiss*	20	22
+fitness	51	53
+flirt	12	13
+flirtare	12	13
+flirtato	12	13
+flirtav*	12	13
+floscio	12	16	19
+folla	31
+folle	12	16
+follia	12	16	18
+fonda	20	21	39
+fondamenta	20	21
+fondare	20	21	39
+fondat*	20	21	38
+fondav*	20	21	38
+fondo	20	21	39
+football	47	48	51	53
+form*	20	22
+forse	25
+fortuito	12	13
+fortun*	25
+fortunat*	25
+fortunatamente	12	13	15	25
+fossa	12	16	19	57	59
+fosse	72	82
+fossero	72	85
+fossi	72
+fossimo	72	83
+foste	72	84
+fottere	12	16	18	60	62	66
+fottut*	12	16	18	66
+frantumat*	12	16	19
+frate*	31	35
+fratern*	47	48
+fredd*	60	61
+fregnacc*	12	16	18	66
+frenat*	20	24
+frenetic*	12	16	17
+freni	20	24
+freno	20	24
+fronte	60	61
+frustra*	12	16	18
+frutt*	20	21	47	49	50
+fugge	39	46	82
+fuggi	39	46
+fuggire	39	46
+fuggit*	38	46
+fuggiv*	38	46
+funebre	57	59
+funeral*	57	59
+funereo	57	59
+fuori	10	41	45
+fuoridi	10	41
+furb*	31
+furios*	12	16	18
+futur*	37
+gamb*	60	61
+garage	51	52
+garantisc*	26
+garantit*	26
+garanzi*	26
+gay	60	62
+gelos*	12	16	18
+generare	20	22
+generazione	37
+genitali	60	61	62
+genitoriale	31	35
+gennaio	37
+gente	31	36
+gentil*	12	13
+gentiluomo	31	36
+germogl*	31	34
+Gesu'	57	58
+ghiandol*	60	61
+ghigno	12	13	14
+gia'	10	41	43
+giaciglio	51	52	64
+ginecologo	49
+ginn*	51	53
+ginocch*	60	61
+gioca	12	13	39	51	53	82
+giocai	12	13	38	51	53	80
+giocando	12	13	51	53
+giocav*	12	13	38	51	53
+gioco	12	13	39	51	53
+gioi*	12	13	14
+giornat*	37
+giorni	37
+giorno	37
+giovamento	12	13	15
+giu'	10	41	43
+giudizio	12	13	15	47	50
+giugno	37
+giunga	72
+giungano	72	85
+giunge	39	82
+giungendo	74
+giungera	40	82
+giungerai	40	81
+giungeranno	40	85
+giungere	75
+giungerebbe	72	82
+giungerebbero	72	85
+giungerei	72	80
+giungeremmo	72	83
+giungeremo	40	83
+giungereste	72	84
+giungeresti	72	81
+giungerete	40	84
+giungero	40	80
+giungesse	72	82
+giungessero	72	85
+giungessi	72
+giungessimo	72	83
+giungeste	72	84
+giungete	39	84
+giungeva	38	82
+giungevamo	38	83
+giungevano	38	85
+giungevate	38	84
+giungevi	38	81
+giungevo	38	80
+giungi	39	81
+giungiamo	39	83
+giungiate	72	84
+giungo	39	80
+giungono	39	85
+giunt*	74
+giustamente	20	22	26
+giustificabile	20	21
+giustificat*	31	32
+giustificaz*	31	32
+giusto	25
+gli	1	9
+glielo	1	70
+glori*	12	13	15
+gode	12	13	14	39	82
+godere	12	13	14	39
+godev*	12	13	14	38
+godiamo	12	13	14	39	83
+godo	12	13	14	39	80
+goduto	12	13	14	38
+golf	51	53
+gonf*	60	61
+gotta	60	61
+grande	41
+grass*	60	61	63
+gratificante	12	13
+gratitudine	12	13
+grave	12	16
+gravemente	12	16
+gravi	12	16
+gravid*	60	61	62
+grazia	12	13
+grazios*	12	13
+grec*	47	48
+gridare	12	16	19	39
+gruppo	31
+guadagnare	50	56
+guai	12	16
+guaio	12	16
+guanc*	60	61
+guarda	27	28	39
+guardando	27	28
+guardandol*	1	6	27	28	39
+guardat*	27	28	38
+guardav*	27	28	38
+guida	39	46
+guidando	46
+guidare	39	46
+guidat*	38	46
+guidatore	46
+guidav*	38	46
+ha	39	78	82
+habisogno	20	23	39
+hadato	31	32	38
+hai	39	78   81
+han	39	71	78	85
+hanno	39	78 	85
+hannobisogno	20	23	39
+hiv	60	61
+ho	39	78	80
+hobisogno	20	23	39
+hockey	51	53
+i	9
+idea	20	22
+ideal*	12	13
+ieri	37	38
+ignorar*	20	24
+ignoranza	12	16
+il	9
+illegittim*	12	16	18	66
+illusion*	20	23
+illustra	20	22	31	32	39	82
+illustrare	20	22	31	32	39
+illustrat*	20	22	31	32	38	74
+illustrav*	20	22	31	32	38
+illustre	12	13	15
+illustrer*	20	22	31	32	40
+illustro	20	22	31	32	39	80
+imballagg*	46	47	48
+imbarazz*	12	16
+imbrogl*	12	16	18
+immediat*	37
+immens*	41
+immortal*	37	57	58
+impacchetta	39	46	47
+impacchettai	38	46	47
+impacchettavo	38	46	47
+impacchetto	39	46	47	80
+impar*	20	22
+impaurit*	12	16	17
+impazient*	12	16	17
+impazzire	12	16
+impeccabile	12	13	15
+impedi*	20	24
+impedire	20	24	39
+impedisc*	20	24	39
+impegn*	12	13	15
+impersonal*	12	16
+impieg*	47	49
+implic*	20	21
+imponent*	12	13
+importun*	12	16	18
+impress*	12	13	15
+improvvisament	37
+improvviso	37
+impugna*	20	22
+in	10
+inadeguat*	12	16	17	19
+incass*	56
+incazza	12	16	18	39	66
+incazzat*	12	16	18	38	66
+incazzav*	12	16	18	38	66
+incazzo	12	16	18	39	66
+incepp*	20	24
+incert*	12	16	17	25
+incest*	60	62
+incidente	12	13
+incima	10	41	42
+incint*	60	61	62
+inclu*	44
+incomincer*	37	40
+incomincia	37	39	82
+incominciare	37	39
+incominciat*	37	38
+incominciav*	37	38
+inconsciamente	20	24
+inconscio	57
+incontra	31	32	39
+incontrare	31	32	39
+incontrat*	31	32	38
+incontrav*	31	32	38
+incontrer*	31	32	40
+incontriamo	31	32	39
+incontro	31	32
+incoragg*	12	13	14	15	31	32
+incorpora*	20
+incrociare	46
+incrocio	46
+incub*	60	64
+indietro	37	46
+indifeso	12	16	19
+indifferen*	12	16	19
+indigenza	12	16
+indigestione	60	61
+individuale	31	36
+indovina	25	39
+indovinare	25	39
+indovinat*	25	38
+indovinav*	25	38
+indoviner*	25	38
+industr*	47	49
+ineffetti	8	20
+inefficac*	12	16
+inevitabil*	26
+infastidit*	12	16
+infatti	8	26
+inferiore	12	16	19
+inferno	12	16	57	58
+infett*	60	61
+infiamma*	60	61
+infinit*	11	37
+influenz*	20	21
+influss*	20	21
+infondo	10	41	43
+informa	20	22	31	32
+informare	20	22	31	32
+informat*	20	22	74
+informazion*	20	22	31	32
+infortunio	12	13
+infuri*	12	16	18
+ingegnos*	12	13
+ingioco	12	13
+inib*	12	16	20	24
+inizia	37	39
+iniziare	37	39
+iniziat*	37	38
+inognicaso	25
+inpunto	37
+inquiet*	12	16	17
+insicur*	12	16	17
+insomma	68
+insonnia	60	61	64
+instabil*	12	16	17
+insult*	12	16	18	31	32
+intanto	37
+integra*	20
+intelligent*	12	13
+intende	20	22	39	82
+intendev*	20	22	38
+intendo	20	22	39	80
+intenzione	20	21	47	50
+intera	26
+interaz*	31	32
+intere	26
+interess*	12	13
+interfer*	20	24
+interi	26
+interno	41
+interroga	20	22	31	32	39	82
+interrogai	20	22	31	32	38	80
+interrogando	20	22	31	32
+interrogare	20	22	31	32	39
+interrogav*	20	22	31	32	38
+interrogo	20	22	31	32	39	80
+intervall*	37
+intervento	60
+intervist*	31	32	47	49
+inteso	37
+intestin*	60	61
+intimid*	12	16	18
+intorno	10	41
+intorpidit*	12	16	60	61
+intratt*	12	13
+intromett*	20	24
+intuito	20	22
+intuizione	20	22	27
+inutile	12	16	19
+invidia	12	16
+invidios*	12	16
+io	1	2	4
+iosono	1	2	4
+iperte*	60	61
+ipotec*	56
+ipotesi	20	22
+ira	12	16	18
+irat*	12	16	18
+irrazional*	12	16
+irrita*	12	16	17
+iscriz*	47	48
+isolat*	12	16	19
+isolam*	12	16	19
+ispira*	12	13	15
+jazz	51	55
+l*	9
+la	9
+la'	41	45
+labbr*	60	61
+laboratorio	48	49
+laborios*	47	49
+lament*	12	16	31	32
+larg*	41
+lascia	39	82
+lasciando	39
+lasciano	39	85
+lasciare	39
+lasciarmi	1	4	39
+lasciarsi	1	39
+lasciat*	38
+lasciav*	38
+lascino	39	 
+laureat*	47	48
+lavor*	47	 
+leale	12	13
+legga	20	27	28	72
+leggano	20	27	28	72	85
+legge	20	27	28	39	82
+leggendo	20	27	28	75
+leggera	20	27	28	40	82
+leggerai	20	27	28	40	81
+leggeranno	20	27	28	40	85
+leggere	20	27	28
+leggerebbe	20	27	28	72	82
+leggerebbero	20	27	28	72	85
+leggerei	20	27	28	72	80
+leggeremmo	20	27	28	72	83
+leggeremo	20	27	28	40	83
+leggereste	20	27	28	72	84
+leggeresti	20	27	28	72	81
+leggerete	20	27	28	40	84
+leggero	20	27	28	40	80
+leggesse	20	27	28	72	82
+leggessero	20	27	28	72	85
+leggessi	20	27	28	72
+leggessimo	20	27	28	72	83
+leggeste	20	27	28	72	84
+leggete	20	27	28	39	84
+leggeva	20	27	28	82	 
+leggevamo	20	27	28	83	 
+leggevano	20	27	28	85	 
+leggevate	20	27	28	84	 
+leggevi	20	27	28	38	81
+leggevo	20	27	28	38	80
+leggi	20	27	28	39	81
+leggiamo	20	27	28	39	83
+leggiate	20	27	28	72	84
+leggo	20	27	28	39	80
+leggono	20	27	28	39	85
+lei	1	6	31	33
+lesbic*	60	62
+letteratura	47	48
+letto	51	52	64
+leucem*	60	61
+lezion*	47	48
+li'	41	45
+liber*	12	13	15
+liberazione	12	13
+libid*	60	62
+libr*	47	48
+licenza	47	48
+licenzia*	47	49
+liet*	12	13	14
+limit*	20	24
+lite	12	16	18	31	32
+litigare	12	16	18	31	32	39
+litigio	12	16	18	31	32
+livell*	41
+lo	1	9
+lod*	31	32	47	50
+lontan*	41
+lotta	12	16	18	31	32	39
+lottando	12	16	18	31	32
+lottare	12	16	18	31	32	39
+lottato	12	16	18	31	32	38
+lottatore	12	16	18	31	32
+lottav*	12	16	18	31	32	38
+lucent*	12	13
+luglio	37
+lui	1	33	70
+luminos*	12	13	15
+lunedi	37
+lungo	10	41	44
+lusingh*	31	32
+lussuria	60	62
+lutto	12	16	19	57	59
+ma	20	23	45
+madre	31	35
+maestro	31	36	48
+magari	68
+magnific*	12	13
+mai	7	26	37
+malat*	60	61
+malditesta	60	61
+male	12	16	18
+maled*	12	16	18	66
+malinc*	12	16	19
+maltratt*	12	16	18
+malumore	12	16	19	43
+mamm*	31	35
+mammamia	68
+mammell*	60	61	62
+manca	12	16	19	39	82
+mancando	12	16	19
+mancano	12	16	19	39	85
+mancante	12	16	19
+mancanza	12	16	19
+mancare	12	16	19	39
+mancat*	12	16	19	38	74
+mancav*	12	16	19	38
+mancher*	12	16	19	40
+manco	12	16	19	39	80
+mandibol*	60	61
+maneggia*	27
+mangia	27	39	60	63	82
+mangiando	27	60	63
+mangiare	27	39	60	63
+mangiav*	27	38	60	63
+mangio'	27	38	60	63
+mani	60	61
+mania	12	16
+manifesta	12	31	32	39
+manifestando	12	31	32
+manifestare	12	31	32	39
+manifestav*	12	31	32	38
+manifesto'	12	31	32	38
+mano	60	61
+mappa	41
+marit*	31	35
+marzo	37
+mascell*	60	61
+masch*	31	36
+mass*	60	61
+massa	60	61
+mastica*	60	63
+matematic*	47	48
+matern*	31	 
+matricol*	47	48
+matta	12	16	18
+matte	12	16	18
+matti	12	16	18
+mattin*	37
+matto	12	16	18
+maturare	31	39	50
+me	1	2	4
+medico	47	60	65
+medita*	57	58
+meglio	12	13	47	50
+mendic*	31	32
+menopausa	60
+mensa	47	48	60	63
+mensile	37
+mental*	20
+mente	20
+mentiva	12	13	18	38
+menzogn*	12	16
+mercato	47	49
+merenda	60	63
+mese	37
+mess*	74
+messa	57	58
+messagg*	31	32
+mestesso	1	2	4
+mestruazioni	60	61	62
+meta	20	47	50
+metastasi	60	61
+metodista	57	58
+metta	72
+mettano	72	85
+mette	39	82
+mettendo	75
+mettera	40	82
+metterai	40	81
+metteranno	40	85
+metterebbe	72	82
+metterebbero	72	85
+metterei	72	80
+metteremmo	72	83
+metteremo	40	83
+mettereste	72	84
+metteresti	72	81
+metterete	40	84
+mettero	40	80
+mettesse	72	82
+mettessero	72	85
+mettessi	72
+mettessimo	72	83
+metteste	72	84
+mettete	39	84
+metteva	38	82
+mettevamo	38	83
+mettevano	38	85
+mettevate	38	84
+mettevi	38	81
+mettevo	38	80
+metti	39	81
+mettiamo	39	83
+mettiate	73	84
+metto	39	80
+mettono	39	85
+mezzogiorno	37
+mi	1	2
+mia	1	2
+mie	1	2
+miei	1	2
+miglia	41
+migliai*	11
+miglio	41
+migliora*	12	13	15
+migliore	12	13	15	47	50
+mignotta	12	16	18	66
+miliard*	11
+milion*	11
+mill*	1
+minut*	37
+mio	1	2	4
+miserabile	12	16	17	19
+misericordia	58
+modifica	39
+modificare	39
+modificat*	38
+modificav*	38
+modificher*	40
+modifico	39
+moglie	31	35
+molest*	12	16	18
+molto	25
+moment*	37
+momento	37
+monet*	56
+moral*	57	58
+moralmente	12	57
+morendo	57	59	75
+morente	57	59
+morente	57	59
+moriamo	39	57	59	83
+moriate	57	59	72	84
+moribond*	57	59
+morira'	40	57	59
+morire	39	57	59
+moriremo	40	57	59
+morisse	57	59	72	82
+morissero	57	59	72	85
+morissi	57	59	72
+morissimo	57	59	72	83
+moriste	57	59	72	84
+morite	39	57	59	84
+moriv*	38	57	59
+moriva	38	57	59	82
+morivamo	38	57	59	83
+morivano	38	57	59	85
+morivate	38	57	59	84
+morivi	38	57	59	81
+morivo	38	57	59	80
+morra	40	57	59	82
+morrai	40	57	59	81
+morranno	40	57	59	85
+morrebbe	57	59	72	82
+morrebbero	57	59	72	85
+morrei	57	59	72	80
+morremmo	57	59	72	83
+morremo	40	57	59	83
+morreste	57	59	72	84
+morresti	57	59	72	81
+morrete	40	57	59	84
+morro	40	57	59	80
+mort*	57	59
+mortal*	57	59
+morto	57	59	74
+moscio	12	16	19
+moss*	46	74
+mossa	38	46
+mosse	38	46
+mostra	27	28	39	51	54
+mostrando	27	28
+mostrare	27	28	39	51	54
+mostrat*	27	28	38	51	54
+mostrav*	27	28	38	51	54
+mostrer*	27	28	40	51	54
+mostro	27	28	39	51	54
+motiv*	20	21	22	47	50
+muoia	57	59	72
+muoiano	57	59	72	85
+muoio	39	57	59	80
+muoiono	39	57	59	85
+muore	39	57	59	82
+muori	39	57	59	81
+muova	46	72	 
+muovano	46	72	85
+muove	39	82	 
+muovendo	46	75
+muovendoci	1	3	4	46
+muovendomi	1	2	4	 
+muovente	20	22
+muovera	40	46	82
+muoverai	40	46	81
+muoveranno	40	46	85
+muovere	46
+muoverebbe	72	46	82
+muoverebbero	46	72	85
+muoverei	72	46	80
+muoveremmo	72	46	83
+muoveremo	40	46	83
+muovereste	72	46	84
+muoveresti	72	46	81
+muoverete	40	46	84
+muovero	40	46	80
+muovesse	72	46	82
+muovessero	72	46	85
+muovessi	46	72
+muovessimo	72	46	83
+muoveste	72	46	84
+muovete	39	46	84
+muoveva	38	46	82
+muovevamo	38	46	83
+muovevano	38	46	85
+muovevate	38	46	84
+muovevi	38	46	81
+muovevo	38	46	80
+muovi	39	46	81
+muoviamo	39	46	83
+muoviate	46	72	84	 
+muovo	39	46	80
+muovono	39	46	85
+muscol*	60	61
+mut*	12	16	18
+nasale	60	61
+nasca	72
+nascano	72	85
+nasce	39	82
+nascendo	75
+nascera	40	82
+nascerai	40	81
+nasceranno	40	85
+nascerebbe	72	82
+nascerebbero	72	85
+nascerei	72	80
+nasceremmo	72	83
+nasceremo	40	83
+nascereste	72	84
+nasceresti	72	81
+nascerete	40	84
+nascero	40	80
+nascesse	72	82
+nascessero	72	85
+nascessi	72
+nascessimo	72	83
+nasceste	72	84
+nascete	39	84
+nasceva	38	82
+nascevamo	38	83	 
+nascevano	38	85
+nascevate	38	84
+nascevi	38	81
+nascevo	38	80
+nasci	39	81
+nasciamo	39	83
+nasciate	72	84
+nasco	39	80
+nasconda	20	72
+nascondano	20	72	85
+nasconde	20	39	82
+nascondendo	20	75
+nascondera	20	40	82
+nasconderai	20	40	81
+nasconderanno	20	40	85
+nasconderebbe	20	72	82
+nasconderebber	20	72	85
+nasconderei	20	72	80
+nasconderemmo	20	72	83
+nasconderemo	20	40	83
+nascondereste	20	72	84
+nasconderesti	20	72	81
+nasconderete	20	40	84
+nascondero	20	40	80
+nascondesse	20	72	82
+nascondessero	20	72	85
+nascondessi	20	72
+nascondessimo	20	72	83
+nascondeste	20	72	84
+nascondete	20	39	84
+nascondeva	20	38	82
+nascondevamo	20	38	83
+nascondevano	20	38	85
+nascondevate	20	38	84
+nascondevi	20	38	81
+nascondevo	20	38	80
+nascondi	20	39	81
+nascondiamo	20	39	83
+nascondiate	20	72	84
+nascondo	20	39	80
+nascondono	20	39	85
+nascono	39	85
+nascost*	20	74
+naso	60	61
+nause*	60	61
+ne	1
+nebbioso	12	16	25
+necessit*	20	23
+negati	20	24
+negativ*	7
+negato	20	24
+negaz*	7
+negligen*	12	16	20	24
+negoziat*	31	32	47	49
+negozio	39	   
+nel	9	10
+nemic*	12	16	18
+nervi	60	61
+nervos*	12	16	17
+nessuno	1	7
+niente	7
+nipot*	31	35
+no	7
+nobile	12	13
+nocca	60	61
+nocche	60	61
+noia	12	16
+noios*	12	16
+nomin*	31	32
+non	7
+nonn*	31	35
+nonostante	45
+nonso	7	68
+nord	41
+nordico	41
+nostalg*	12	16	19
+nostra	1	3	31	33
+nostre	1	3	31	33
+nostri	1	3	31	33
+nostro	1	3	31	33
+notare	20	22
+nott*	37
+nove	11
+novembre	37
+nud*	60	61	62
+nulla	7
+nuov*	37
+nutrit*	38	60	63	74
+nutriv*	38	60	63	73
+o	25	45
+obiettivo	20	47	50
+occasional*	25	37
+occhi	27	28	60	61
+occhio	27	28	60	61
+occupa	39	41	47	49	73	82
+occupare	39	41	47	49	73
+occuparsi	39	41	47	49
+occupato	38	41	47	49	74
+occupav*	38	41	47	49
+occupazione	47	49
+occuper*	40	41	47	49	50
+odia	12	16	18	39	73	82
+odiando	12	16	18	73	75
+odiare	12	16	18	39	73
+odiava	12	16	18	38	73	82
+odio	12	16	18
+odios*	12	16	18
+offend*	12	16	18	73
+offert*	31	73	74
+offra	31	72	39	80
+offrano	31	72	39	85
+offre	31	39	73	82
+offrendo	31	73	75
+offri	31	39	73	81
+offriamo	31	39	73	83
+offriate	31	39	72	73	84
+offrira	31	40	73	82
+offrirai	31	40	73	81
+offriranno	31	40	73	85
+offrire	31	73
+offrirebbe	31	72	82
+offrirebbero	31	72	85
+offrirei	31	72	80
+offriremmo	31	72	83
+offriremo	31	40	83
+offrireste	31	72	84
+offriresti	31	72	81
+offrirete	31	40	84
+offriro	31	40	80
+offrisse	31	72	82
+offrissero	31	72	85
+offrissi	31	72	80
+offrissimo	31	72	83
+offriste	31	72	84
+offrite	31	39	84
+offriva	31	38	82
+offrivamo	31	38	83
+offrivano	31	38	85
+offrivate	31	38	84
+offrivi	31	38	81
+offrivo	31	38	80
+offro	31	39	80
+offrono	31	39	85
+oggi	37	39
+oh	67
+ok	26
+oltraggio	12	16	18	32
+oltre	10
+omicidio	57	59
+omosessuale	60	62
+onest*	12	13
+onorario	49	56
+onore	12	13	15
+operare	39	73
+operat*	38	73	74
+oppure	25	45
+ora	37
+ordinat*	12	73	74
+orecch*	27	29	60	61
+organi	60	61
+organism*	60	61
+organizzazion*	31	47	49
+organo	60	61
+orgogl*	12	13	15
+orient*	41
+orin*	60	61
+ormoni	60
+orologio	37
+orribile	16	17
+orrore	12	16	17
+orsono	37	38
+oscur*	12	16	19
+ospit*	31	34
+oss*	60	61
+osserv*	27	28	39	73
+ostacol*	20	24	50
+ostil*	12	16	18
+ostinat*	12	16	18	20	24
+ottenere	39	50	73
+otteneva	38	50	73	82
+ottimist*	12	13	15
+ottobre	37
+ovai*	60	61	62
+pace	12	13
+pacifi*	12	13
+padre	31	35
+padrone	31	49	57	58
+paga	39	47	49	56	73	82
+pagamento	47	49	56
+pagante	47	49	56
+pagare	39	56
+pagat*	38	56	74
+pagav*	38	47	49	56	73
+pago	39	47	49	56	73	80
+pallacanestro	47	48	51	53
+pancia	60	61
+panico	12	16	17
+papa	57	58
+papale	57	58
+parali*	60	61
+paranoi*	12	16	18
+parassita	12	16	19
+parente	31	35
+parenti	31	35
+parlando	27	29	31	32	75
+parlano	27	29	31	32	39	85
+parlare	27	29	31	32	39
+parlato	27	29	31	32	38	74
+parlatorio	47	48
+parlav*	27	29	31	32	38	80
+parler*	27	29	31	32	40
+parlo	27	29	31	32	39	80
+parte	39	46	82
+partecip*	31	32
+partire	39	46
+partit*	38	46	74
+partner	31	34	36
+parto	39	46	80
+party	31	51
+pasqua	57	58
+passato	37	38
+passione	12	13	14	62
+pasti	60	63
+pasticcio	12	16
+pasto	60	63
+patern*	12	35
+patetic*	16	19
+patire	12	16	19	39	73
+patit*	12	16	19	38	73	74
+patologia	60	61
+paur*	12	16	17
+pazienza	12	13
+pazzo	12
+peccat*	12	16	57	59
+peggio	12	16
+peggiorament*	12	16
+peggiorare	12	16	39
+peggiorat*	12	16	38	74
+peggiorava	12	16	38
+peggiorer*	12	16	40
+pelle	61
+pene	60	61	62
+pensa	20	22	39	82
+pensando	20	22	39	75
+pensano	20	22	39	85
+pensare	20	22	39
+pensato	20	22	38	74
+pensav*	20	22	38	80
+penser*	20	22	40
+pensiamo	20	22	39	83
+pensieri	20	22
+pensiero	20	22
+pensionant*	41
+penso	20	22	39	80
+pensos*	20	22
+per	10
+percezione	27
+perche'	20	21
+perda	12	19	39	50	73	72	80
+perdano	12	19	39	50	73	72	85
+perde	12	16	19	39	73	50	82
+perdendo	12	16	19	50	73	75
+perdente	12	16	19	50
+perdera'	12	16	19	40	50	73	82
+perderai	12	16	19	40	50	73	81
+perderanno	12	16	19	40	50	73	85
+perdere	12	16	19	39	50	73
+perderebbe	12	16	19	39	50	72	73	82
+perderebbero	12	16	19	39	50	72	73	85
+perderei	12	16	19	39	50	72	73	80
+perderemmo	12	16	19	39	50	72	73	83
+perderemo	12	16	19	40	50	73	83
+perdereste	12	16	19	39	50	72	73	84
+perderesti	12	16	19	39	50	72	73	81
+perderete	12	16	19	40	50	73	84
+perdero'	12	16	19	40	50	73	80
+perdesse	12	16	19	38	50	72	73	82
+perdessero	12	16	19	38	50	72	73	85
+perdessi	12	16	19	38	50	72	73
+perdessimo	12	16	19	38	50	72	73	83
+perdeste	12	16	19	38	50	72	73	84
+perdete	12	16	19	39	50	84
+perdeva	12	16	19	38	50	82
+perdevamo	12	16	19	38	50	83
+perdevano	12	16	19	38	50	85
+perdevate	12	16	19	38	50	84
+perdevi	12	16	19	38	50	81
+perdevo	12	16	19	38	50	80
+perdi	12	16	19	39	50	81
+perdiamo	12	16	19	39	50	83
+perdiate	12	16	19	39	50	84
+perdit*	12	16	19	50
+perdo	12	16	19	39	73	50	80
+perdon*	12	13	14	20	22	31
+perdono	12	16	19	39	50	85
+perdut*	12	16	19	38	73	74
+perfettamente	12	13
+perfezione	12	50	50
+perfino	25
+pergioco	31	51	53
+pericol*	12	16	18
+perineo	60	61	62
+periodo	37
+peritoneo	60	61
+perplessi	25
+persa	12	16	19	38	73	74
+perse	12	16	19	38	73	74
+persempre	26	37
+persi	12	16	19	38	73	74
+persino	25
+perso	12	16	19	38	73	74
+persona	31	36
+persone	31	36
+persuada	31	32	39	72	73	82
+persuadano	31	32	39	72	73	85
+persuade	31	32	39	73	82
+persuadendo	31	32	73	75
+persuadente	31	32
+persuadera	31	32	40	73	80
+persuaderai	31	32	40	73	81
+persuaderanno	31	32	40	73	85
+persuadere	31	32
+persuaderebbe	31	32	72	82
+persuaderebbero	31	32	72	85
+persuaderei	31	32	72	80
+persuaderemmo	31	32	72	83
+persuaderemo	31	32	40	83
+persuadereste	31	32	72	84
+persuaderesti	31	32	72	81
+persuaderete	31	32	40	84
+persuadera	31	32	40	80
+persuadesse	31	32	38	72	82
+persuadessero	31	32	38	72	85
+persuadessi	31	32	38	72	80
+persuadessimo	31	32	38	72	83
+persuadeste	31	32	38	72	84
+persuadete	31	32	39	84
+persuadeva	31	32	38	82
+persuadevamo	31	32	38	83
+persuadevano	31	32	38	85
+persuadevate	31	32	38	84
+persuadevi	31	32	38	81
+persuadevo	31	32	38	80
+persuadi	31	32	39	81
+persuadiamo	31	32	39	83
+persuadiate	31	32	39	72	84	84
+persuado	31	32	39	73	80
+persuadono	31	32	39	73	85
+persuas*	31	32	73	74
+perver*	12	16	60	62
+pessimis*	12	16	19
+pettegol*	12	16	31	32
+petto	60	61
+piaccia	12	13	14	39	72	82
+piacciamo	12	13	14	39	83
+piacciano	12	13	14	39	72	85
+piacciate	12	13	14	39	72	84
+piaccio	12	13	14	39	80
+piacciono	12	13	14	39	85
+piace	12	13	14	39	82
+piacendo	12	13	14	75
+piacente	12	13	14
+piacera	12	13	14	40	80
+piacerai	12	13	14	40	81
+piaceranno	12	13	14	40	85
+piacere	12	13	14
+piacerebbe	12	13	14	39	72	82
+piacerebbero	12	13	14	39	72	85
+piacerei	12	13	14	39	72	80
+piaceremmo	12	13	14	39	72	83
+piaceremo	12	13	14	40	83
+piacereste	12	13	14	39	72	84
+piaceresti	12	13	14	39	72	81
+piacerete	12	13	14	40	84
+piaceri	12	13
+piacero'	12	13	14	40	80
+piacesse	12	13	14	38	72	82
+piacessero	12	13	14	38	72	85
+piacessi	12	13	14	38	72	80
+piacessimo	12	13	14	38	72	83
+piaceste	12	13	14	38	72	84
+piacete	12	13	14	39	84
+piacev*	12	13	14	38
+piaceva	12	13	14	38	82
+piacevamo	12	13	14	38	83
+piacevano	12	13	14	38	85
+piacevate	12	13	14	38	84
+piacevi	12	13	14	38	81
+piacevo	12	13	14	38	80
+piacevole	12	13
+piaci	12	13	14	39	81
+piaciut*	12	13	14	38	74
+pianga	12	16	19	39	72	82
+piangano	12	16	19	39	72	85
+piange	12	16	19	39	82
+piangendo	12	16	19	75
+piangente	12	16	19
+piangera	12	16	19	40	80
+piangerai	12	16	19	40	81
+piangeranno	12	16	19	40	85
+piangere	12	16	19
+piangerebbe	12	16	19	39	72	82
+piangerebbero	12	16	19	39	72	85
+piangerei	12	16	19	39	72	80
+piangeremmo	12	16	19	39	72	83
+piangeremo	12	16	19	40	83
+piangereste	12	16	19	38	72	84
+piangeresti	12	16	19	38	72	81
+piangerete	12	16	19	40	84
+piangero	12	16	19	40	80
+piangesse	12	16	19	38	72	82
+piangessero	12	16	19	38	72	85
+piangessi	12	16	19	38	72	80
+piangessimo	12	16	19	38	72	83
+piangeste	12	16	19	38	72	84
+piangete	12	16	19	39	72	84
+piangev*	12	16	19	38
+piangeva	12	16	19	38	82
+piangevamo	12	16	19	38	83
+piangevano	12	16	19	38	85
+piangevate	12	16	19	38	84
+piangevi	12	16	19	38	81
+piangevo	12	16	19	38	80
+piangi	12	16	19	39	81
+piangiamo	12	16	19	39	83
+piangiate	12	16	19	39	72	84
+piango	12	16	19	39	80
+piangono	12	16	19	39	85
+piansi	12	16	19	38	80
+pianti	12	16	19
+pianto	12	16	19	74
+piatt*	60	63
+picchiato	12	16	18
+piccol*	41
+pidocch*	12	16	18
+piede	60	61
+piedi	60	61
+pien*	44
+pieta'	12	16	19
+pietos*	12	16	19
+pietrific*	12	16	17
+pisc*	12	16	66
+piu'	10	44
+piuttosto	45
+po'	25
+pochettino	25
+pochi	25
+pochissim*	25
+poco	25
+poi	37
+poiche'	20	21
+pollice	60	61
+polmon*	60	61
+polpacc*	60	61
+pols*	60	61
+ponder*	20	22
+popolar*	12	13
+porn*	61	62
+porta	39	46	73	82
+portando	46	75
+portano	39	46	73	85
+portante	46
+portantino	47
+portare	39	46
+portarl*	1	6	31	33	39	46
+portato	38	46	73	74
+portav*	38	46	73
+porter*	40	46	73
+porto	39	46	73	80
+positiv*	12	13	15	26
+posizione	41	47	49
+possa	20	23	39	72
+possano	20	23	39	72	85
+possedere	39	73
+possedev*	38	73
+posseduto	38	73	74
+possiamo	20	23	39	83
+possiate	20	23	39	72	84
+possibil*	25
+possiede	39	73	82
+posso	20	23	39	80
+possono	20	23	39	85
+posto	41
+potendo	20	23	75
+potente	47	50
+poter*	25	39
+potere	47	50
+poterla	1	6	25	31	33	39
+potesse	20	23	39	72	82
+potessero	20	23	39	72	85
+potessi	20	23	39	72	80
+potessimo	20	23	39	72	83
+poteste	20	23	39	72	84
+potete	20	23	39	84
+poteva	20	23	38	82
+potevamo	20	23	38	83
+potevano	20	23	38	85
+potevate	20	23	38	84
+potevi	20	23	38	81
+potevo	20	23	38	80
+potr*	25	40
+potrò	20	23	40	80
+potrai	20	23	40	81
+potranno	20	23	40	85
+potrebbe	20	23	39	72	82
+potrebbero	20	23	39	72	85
+potrei	20	23	39	72	80
+potremmo	20	23	39	72	83
+potremo	20	23	40	83
+potreste	20	23	39	72	84
+potresti	20	23	39	72	81
+potrete	20	23	40	84
+potuto	74
+pover*	56
+poveracci*	12	16	19
+pranzo	60	63
+praticamente	68
+precisa	12	13	20	24
+precisamente	26
+precisi	12	13	20	24
+preciso	12	13	20	24
+precoc*	37
+predicare	57	58
+predilett*	12	13
+preg*	57	58
+pregiudiz*	12	16	18
+prelievo	60	61
+prenda	39	46	72	73	82
+prendano	39	46	72	73	85
+prende	39	46	73	82
+prendendo	46	73	75
+prendera	40	46	73	80
+prenderai	40	46	73	81
+prenderanno	40	46	73	85
+prendere	46	73
+prenderebbe	39	46	72	73	82	72
+prenderebbero	39	46	72	73	85	72
+prenderei	39	46	72	73	80	72
+prenderemmo	39	46	72	73	83	72
+prenderemo	40	46	73	83
+prendereste	39	46	72	73	84
+prenderesti	39	46	72	73	81
+prenderete	40	46	73	84
+prenderla	1	6	31	33	39	46
+prendero	40	46	80
+prendersicura	12	13	14	39
+prendesse	38	46	72	73	82
+prendessero	38	46	72	73	85
+prendessi	38	46	72	73	80
+prendessimo	38	46	72	73	83
+prendeste	38	46	72	73	84
+prendete	39	46	73	84
+prendeva	38	46	73	82
+prendevamo	38	46	73	83
+prendevano	38	46	73	85
+prendevate	38	46	73	84
+prendevi	38	46	73	81
+prendevo	38	46	73	80
+prendi	39	46	73	81
+prendiamo	39	46	73	83
+prendiate	39	46	72	73	84
+prendo	39	46	73	80
+prendono	39	46	73	85
+prenotare	47
+preoccup*	12	16	17
+pres*	46	73	74
+presbiterian*	57	58
+presentarsi	27	28	31	32	39
+presentato	27	28	31	32	38	74
+presente	37
+preservativ*	60	62
+presso	10	41
+presto	37
+presumere	20	21
+presupp*	25	39
+prete	47	58
+prevenire	20	24
+prezzo	56
+prima	37
+principi	37
+principio	37
+priva	12	16	19
+privare	12	16	19
+privazione	12	16	19
+probabil*	25
+problem*	12	16	24
+procreare	61	62
+procurarsi	39	73
+prodiga	12	13	14	39	82
+prodigano	12	13	14	39	85
+prodigo	12	13	14	39	80
+producev*	20	22	38	73
+produrre	20	22	73
+produttiv*	20	21	47	50
+profession*	47	49
+professor*	47	48
+progettare	20	39	50
+progetti	20	50
+progetto	20	50
+progredit*	50
+proib*	20	24
+promette	12	13	15	39	73	82
+promettendo	12	13	15	73	75
+promettente	12	13	15
+prometter*	12	13	15	40	73
+promettere	12	13	15	39	73
+promettev*	12	13	15	38	73
+prometto	12	13	15	39	73	80
+promettono	12	13	15	39	73	85
+promis*	12	13	15	38	73
+pronte	12	13	15
+prontezza	20	22
+pronti	12	13	15
+pronto	12	13	15
+propongo	31	32	39	80
+proporre	31	32	39
+proposi	31	32	38	80
+prossim*	37
+prostat*	60	61	62
+prostitu*	60	62
+protegga	12	13	14	39	72	73	82
+proteggano	12	13	14	39	72	73	85
+protegge	12	13	14	39	73	82
+proteggendo	12	13	14	73
+protegger*	12	13	14	40	73
+proteggerò	12	13	14	40	73	80
+proteggerai	12	13	14	40	73	81
+proteggeranno	12	13	14	40	73	85
+proteggere	12	13	14	39	73
+proteggerebbe	12	13	14	82
+proteggerebbero	12	13	14	85
+proteggerei	12	13	14	80
+proteggeremmo	12	13	14	39	72	73	83
+proteggeremo	12	13	14	40	73	83
+proteggereste	12	13	14	39	72	73	84
+proteggeresti	12	13	14	39	72	73	81
+proteggerete	12	13	14	40	73	84
+proteggesse	12	13	14	38	72	73	82
+proteggessero	12	13	14	38	72	73	85
+proteggessi	12	13	14	38	72	73	80
+proteggessimo	12	13	14	38	72	73	83
+proteggeste	12	13	14	38	72	73	84
+proteggete	12	13	14	39	73	84
+proteggeva	12	13	14	38	73	82
+proteggevamo	12	13	14	38	73	83
+proteggevano	12	13	14	38	73	85
+proteggevate	12	13	14	38	73	84
+proteggevi	12	13	14	38	73	81
+proteggevo	12	13	14	38	73	80
+proteggi	12	13	14	39	73	81
+proteggiamo	12	13	14	39	73	83
+proteggiate	12	13	14	39	72	73	84
+proteggo	12	13	14	39	73	80
+proteggono	12	13	14	39	73	85
+protesta	12	16
+protestai	12	16	38	80
+protestando	12	16	75
+protestante	57	58
+protestato	12	16	38	74
+protestav*	12	16	38
+proteste	12	16
+protesto	12	16	39	80
+protett*	12	13	14	74
+provano	20	39	47	50	85
+provato	20	38	47	50	74
+prover*	20	40	47	50
+proviamo	20	39	47	50	83
+provo	20	39	47	50	80
+prudente	12	13
+prudere	27	60	61
+prurit*	27	60	61
+psicofisico	60	61
+psicol*	47	48
+psicologicamen	47	48
+pulit*	51	52	60	65
+pulizi*	51	52	60	65
+pullman	47	48
+puni*	12	16	18
+puo'	25	40
+pup*	31	36
+pure	44
+purtroppo	12	16	23
+puttana	12	16	18	62	66
+qualche	25
+qualchevolta	25	37
+qualcosa	25
+qualcun*	1	25	31	33
+qualcunaltro	1	25	31	33
+qualsiasi	25
+qualunque	25
+quando	37
+quanto	10
+quart*	11
+quasi	25
+quegli	1	45
+quel*	45
+quella	45
+quellaltro	33	45
+quelle	45
+quelli	45
+quello	45
+questa	44
+queste	44
+questi	44
+questione	20	22
+questo	44
+qui	41	44
+quindi	20	21
+quint*	11
+quotidian*	37
+rabbia	12	16	18
+raccontare	20	31	29	32
+racconti	20	22
+racconto	20	22
+radio	51	55
+raffreddore	60	61
+ragazz*	31	36
+raggiugero'	40	46	50	73	80
+raggiungera'	40	46	50	73	80
+raggiungere	39	46	50	73
+raggiungeremo	40	46	50	73	83
+raggiungono	39	46	50	73	85
+raggiuns*	38	46	50	73
+raggiunt*	38	46	50	73	74
+raggrupp*	31
+ragion*	20	21	22
+rallegrar*	12	13	14	39
+rallegrato	12	13	14	38	74
+rallegrava	12	13	14	38	82
+rammaric*	12	16	19
+rango	47	48
+rapiment*	12	16	18	60	62
+rapport*	31	32	62
+rassegnat*	12	16	19	38	74
+rassegnazione	12	16	19
+rassegno	12	16	19	39	80
+rasserenare	12	13	14	39
+rasserenat*	12	13	14	39	74
+rasserener*	12	13	14	40
+rassicurarci	1	3	12	13	15
+rassicurare	12	13	15	26	39
+rassicurat*	12	13	15	26	38	74
+rassicurav*	12	13	15	26	38
+rassicuro	12	13	15	26	39	80
+rattrappito	60	61
+razionale	20	21	22
+reagire	20	21	39
+reagisce	20	21	39	82
+reagisco	20	21	39	80
+realizza	20	22	39	50	82
+realizzare	20	22	39	50
+realizzato	20	22	38	50	74
+realizzav*	20	22	38	50
+realizzer*	20	22	40	50
+reazion*	20	21
+recarci	1	3	31	33	39	46	84
+recarsi	1	4	39	46
+recat*	38	46	74
+recav*	38	46
+recher*	40	46
+redenzione	57	58
+regali	51
+regga	39	72	73	82
+reggano	39	72	73	85
+regge	39	73	82
+reggendo	73	75
+reggero	40	73	80
+reggerai	40	73	81
+reggeranno	40	73	85
+reggere	39	73
+reggerebbe	39	72	73	82
+reggerebbero	39	72	73	85
+reggerei	39	72	73	80
+reggeremmo	39	72	73	83
+reggeremo	40	73	83
+reggereste	39	72	73	84
+reggeresti	39	72	73	81
+reggerete	40	73	84
+reggera	40	80
+reggesse	38	72	73	82
+reggessero	38	72	73	85
+reggessi	38	72	73	80
+reggessimo	38	72	73	83
+reggeste	38	72	73	84
+reggete	39	73	84
+reggeva	38	73	82
+reggevamo	38	73	83
+reggevano	38	73	85
+reggevate	38	73	84
+reggevi	38	73	81
+reggevo	38	73	80
+reggi	39	73	81
+reggiamo	39	73	83
+reggiate	39	72	73	84
+reggo	39	73	80
+reggono	39	73	85
+registratore	51	55
+relazion*	31	32
+renda	20	39	72	73	82
+rendano	20	39	72	73	85
+rende	20	39	73	82
+rendendo	20	73	75
+rendera'	20	40	73	82
+rendero	20	40	73	80
+renderai	20	40	73	81
+renderanno	20	40	73	85
+rendere	20	39	73
+renderebbe	20	39	72	73	82
+renderebbero	20	39	72	73	85
+rendereconto	20	31
+renderei	20	39	72	73	80
+renderemmo	20	39	72	73	83
+renderemo	20	40	73	83
+rendereste	20	39	72	73	85
+renderesti	20	39	72	73	81
+renderete	20	40	73	84
+rendero'	20	40	73	80
+rendersiconto	20	22
+rendesse	20	38	72	73	82
+rendessero	20	38	72	73	85
+rendessi	20	38	72	73	80
+rendessimo	20	38	72	73	83
+rendeste	20	38	72	73	84
+rendete	20	39	73	84
+rendeva	20	38	73	82
+rendevamo	20	38	73	83
+rendevano	20	38	73	85
+rendevate	20	38	73	84
+rendevi	20	38	73	81
+rendevo	20	38	73	80
+rendi	20	39	73	81
+rendiamo	20	39	73	83
+rendiate	20	39	72	73	84
+rendo	20	39	73	80
+rendono	20	39	73	85
+rene	60	61
+reni	60	61
+reparto	47	48	49
+resa	20	19	74
+rese	20	38	73	82
+resi	20	38	73	80
+reso	20	74
+respir*	60	61
+respon*	20	22
+ressa	31
+restare	39
+retto	74
+riaddormenta	39	60	64	74
+riaddormentare	39	60	64
+riaddormentat*	38	60	64	74
+riaddormentav*	38	60	64
+riaddormento	39	60	64	80
+riavvicina	39	46	82
+riavvicinare	39	46
+riavvicinat*	38	46	74
+riavvicinav*	38	46
+riavviciner*	40	46
+riavvicino	39	46	80
+ribell*	12	16	18
+ricarica	12	16	39	73	82
+ricaricano	12	16	39	73	85
+ricaricav*	12	16	38	73
+ricaricher*	12	16	40	73
+ricarico	12	16	39	73	80
+richiedendo	20	22	31	32	73	75
+richiedente	20	22	31	32	73
+ricompens*	12	13	56
+riconferma	20	39	73	82
+riconfermare	20	39	73
+riconfermat*	20	38	73	74
+riconfermav*	20	38	73
+riconfermer*	20	40	73
+riconfermo	20	39	73	80
+riconosc*	20	22	31	32	39	73
+riconsider*	20	22	73
+ricorda	20	39	73
+ricordano	20	39	73	85
+ricordare	20	39	73
+ricordat*	20	38	73	74
+ricordav*	20	38	73
+ricorder*	20	40	73
+ricordo	20	39	73	80
+ricostru*	20	22
+ricovera	39	73	82
+ricoverarsi	39
+ricoverat*	38	75
+ricoverer*	40	73
+rida	12	13	14	39	72
+ridacchiare	12	13	14	39
+ridano	12	13	14	39	72	85
+ride	12	13	14	39	82
+ridendo	12	13	14	75
+ridente	12	13	14
+riderai	12	13	14	40	81
+rideranno	12	13	14	40	85
+ridere	12	13	14
+riderebbe	12	13	14	39	72	82
+riderebbero	12	13	14	39	72	85
+riderei	12	13	14	39	72	80
+rideremmo	12	13	14	39	72	83
+rideremo	12	13	14	39	83
+ridereste	12	13	14	39	72	84
+rideresti	12	13	14	39	72	81
+riderete	12	13	14	40	84
+ridero	12	13	14	40	80
+ridesse	12	13	14	38	72	82
+ridessero	12	13	14	38	72	85
+ridessi	12	13	14	38	72	80
+ridessimo	12	13	14	38	72	83
+rideste	12	13	14	38	72	84
+ridete	12	13	14	39	84
+rideva	12	13	14	38	82
+ridevamo	12	13	14	38	83
+ridevano	12	13	14	38	85
+ridevate	12	13	14	38	84
+ridevi	12	13	14	38	81
+ridevo	12	13	14	38	80
+ridi	12	13	14	39	81
+ridiamo	12	13	14	39	83
+ridiate	12	13	14	39	72	84
+ridicol*	12	16	18
+rido	12	13	14	39	80
+ridono	12	13	14	39	85
+rientrare	39	46
+rientrat*	38	46	75
+rientrav*	38	46
+rientrer*	40	46
+riesc*	39	50
+rifaccio	39	73
+rifara'	40	73
+rifaranno	40	73	85
+rifare	39	73
+rifaremo	40	73	83
+rifiuta	20	24	31	32	39	73	82
+rifiutano	20	24	31	32	39	73	85
+rifiutare	20	24	31	32	39	73
+rifiutat*	20	24	31	32	38	73	74
+rifiutav*	20	24	31	32	38	73
+rifiuter*	20	24	31	32	40	73
+rifiutiamo	20	24	31	32	39	73	83
+rifiuto	20	24	31	32	39	73	80
+riflette	20	22	39	82
+riflettendo	20	22	39	75
+riflettera'	20	22	40	82
+riflettere	20	22	39
+rifletteremo	20	22	40	83
+riflettero'	20	22	40	80
+riflettev*	20	22	38
+rifletto	20	22	39	80
+riflettuto	20	22	38	74
+riguarda	20	39	73	82
+riguardano	20	39	73	85
+riguardato	20	38	73	74
+riguardav*	20	38	73
+riguarder*	20	40	73
+riguardo	20	39	73	80
+rilassa	12	13	39	82
+rilassarci	1	3	12	13	31	39	83
+rilassare	12	13	39
+rilassarmi	1	4	12	13	39	80
+rilassat*	12	13	38	74
+rilasser*	12	13	40
+rilasso	12	13	39	80
+rimane	39	82
+rimanendo	75
+rimanere	39
+rimanesse	38	72	82
+rimanessero	38	72	85
+rimanessi	38	72	80
+rimanessimo	38	72	83
+rimaneste	38	72	84
+rimanete	39	84
+rimaneva	38	82
+rimanevamo	38	83
+rimanevano	38	85
+rimanevate	38	84
+rimanevi	38	81
+rimanevo	38	80
+rimanga	39	72	82
+rimangano	39	72	85
+rimango	39	80
+rimangono	39	85
+rimani	39	81
+rimaniamo	39	83
+rimaniate	39	72	84
+rimarrò	40	80
+rimarrai	40	81
+rimarranno	40	85
+rimarrebbe	39	72	82
+rimarrebbero	39	72	85
+rimarrei	39	72	80
+rimarremmo	39	72	83
+rimarremo	40	83
+rimarreste	39	72	84
+rimarresti	39	72	81
+rimarrete	40	84
+rimarro	40	80
+rimast*	45	74
+rimpian*	12	16	19
+rimprover*	12	16	18	31	32
+rinneg*	12	16	17
+rinunc*	12	16	19	20	24
+ripens*	20	22
+ripos*	12	13	15	64
+risarcimento	12	13	56
+risat*	12	13	14
+riso	12	13	14	74
+risolto	20	22	38	74
+risolut*	20	22
+risolve	20	22	39	73	83
+risolvendo	20	22	39	73	75
+risolver*	20	22	40	73
+risolvev*	20	22	38	73
+risolviamo	20	22	39	73	83
+risolvo	20	22	39	73	80
+risolvono	20	22	39	85
+risparmia	39	56	82
+risparmiamo	39	56	83
+risparmiando	39	56
+risparmiano	39	56	85
+risparmiare	39	56
+risparmiato	38	56	74
+risparmiav*	38	56
+risparmier*	40	56
+risparmio	39	56	80
+rispecchi*	20	22
+risponda	20	22	31	32	72
+rispondano	20	22	31	32	72	85
+risponde	20	22	31	32	39	82
+rispondendo	20	22	31	32	75
+rispondente	20	22	31	32
+rispondero	20	22	31	32	40	82
+risponderai	20	22	31	32	40	81
+risponderanno	20	22	31	32	40	85
+rispondere	20	22	31	32
+risponderebbe	20	22	31	32	72	82
+risponderebber	20	22	31	32	72	85
+risponderei	20	22	31	32	72	80
+risponderemmo	20	22	31	32	72	83
+risponderemo	20	22	31	32	40	83
+rispondereste	20	22	31	32	72	84
+risponderesti	20	22	31	32	72	81
+risponderete	20	22	31	32	40	84
+rispondera	20	22	31	32	40	80
+rispondesse	20	22	31	32	72	82
+rispondessero	20	22	31	32	72	85
+rispondessi	20	22	31	32	72
+rispondessimo	20	22	31	32	72	83
+rispondeste	20	22	31	32	72	84
+rispondete	20	22	31	32	39	84
+rispondeva	20	22	31	32	38	82
+rispondevamo	20	22	31	32	38	83
+rispondevano	20	22	31	32	38	85
+rispondevate	20	22	31	32	38	84
+rispondevi	20	22	31	32	38	81
+rispondevo	20	22	31	32	38	80
+rispondi	20	22	31	32	39	81
+rispondiamo	20	22	31	32	39	83
+rispondiate	20	22	31	32	72	84
+rispondo	20	22	31	32	39	80
+rispondono	20	22	31	32	39	85
+risposto	20	22	31	32	74
+risultat*	20	21	47	50
+ritard*	37
+ritardat*	66
+ritempra	12	13	39
+ritemprare	12	13	39
+ritemprarsi	12	13	39
+ritemprat*	12	13	38
+ritemprav*	12	13	38
+ritemprer*	12	13	40
+ritempro	12	13	39
+ritmo	51	55
+riunire	31
+riuscendo	39	47	50	75
+riuscire	39	47	50
+riusciro'	40	47	50
+riuscit*	38	47	50
+riusciv*	38	47	50
+rivel*	20	22	31	32
+rompa	18	72
+rompano	18	72	85
+rompe	39	82
+rompe	lepalle	12	16	18	66	82
+rompendo	75
+rompera	18	40	82
+romperai	40	81
+romperanno	40	85
+romperebbe	72	82
+romperebbero	72	85
+romperei	72	80
+romperelepalle	12	16	18	66
+romperemmo	72	83
+romperemo	40	83
+rompereste	72	84
+romperesti	72	81
+romperete	40	84
+rompero	40	80
+rompesse	72	82
+rompessero	72	85
+rompessi	72
+rompessimo	72	83
+rompeste	72	84
+rompete	39	84
+rompeva	38	82
+rompevamo	38	83
+rompevano	38	85
+rompevate	38	84
+rompevi	38	81
+rompevo	38	80
+rompi	39	81
+rompiamo	39	83
+rompiate	72	84
+rompo	39	80
+rompolepalle	12	16	18	66
+rompono	39	85
+rottilepalle	12	16	18	66
+rotto	38
+rottolepalle	12	16	18	66
+rotturadicazzo	12	16	18	66
+rotturadiminchia	12	16	18	66
+rotturadipalle	12	16	18	66
+rozzo	12	16
+rumor*	27	29
+sa	20	22	39	82
+sacrific*	12	16	19	20	24	57
+saggezza	12	13
+saggi*	12	13
+sai	20	22	39	81
+sala	52
+sale	39	42	46	82
+salendo	42	46	75
+salente	42	46
+salga	42	46	72
+salgano	42	46	72	85
+salgo	39	42	46	80
+salgono	39	42	46	85
+sali	39	42	46	81
+saliamo	39	42	46	83
+saliate	42	46	72	84
+salira	40	42	46	82
+salirai	40	42	46	81
+saliranno	40	42	46	85
+salire	42	46
+salirebbe	42	46	72	82
+salirebbero	42	46	72	85
+salirei	42	46	72	80
+saliremmo	42	46	72	83
+saliremo	40	42	46	83
+salireste	42	46	72	84
+saliresti	42	46	72	81
+salirete	40	42	46	84
+saliro	40	42	46	80
+salisse	42	46	72	82
+salissero	42	46	72	85
+salissi	42	46	72
+salissimo	42	46	72	83
+saliste	42	46	72	84
+salite	39	42	46	84
+salito	42	46	74
+saliva	38	42	46	82
+salivamo	38	42	46	83
+salivano	38	42	46	85
+salivate	38	42	46	84
+salivi	38	42	46	81
+salivo	38	42	46	80
+salone	52
+salva	12	13	14	39
+salvaguarda	20	24	39
+salvaguardando	20	24	39
+salvaguardano	20	24	39
+salvaguardare	20	24	39
+salvaguardat*	20	24	38
+salvaguardav*	20	24	38
+salvaguarder*	20	24	40
+salvaguardia	20	24
+salvaguardiamo	20	24	39
+salvare	12	13	14	39
+salvat*	12	13	14	38
+salvav*	12	13	14	38
+salve	31	33
+salver*	12	13	14	40
+sangue	60	61
+sangui*	60	61
+sanno	20	22	39	85
+santo	57	58
+sapendo	20	22	75
+sapere	20	22	39
+sapesse	20	22	72	82
+sapessero	20	22	72	85
+sapessi	20	22	72
+sapessimo	20	22	72	83
+sapeste	20	22	72	84
+sapete	20	22	39	84
+sapev*	20	22	38
+sapeva	20	22	38	82
+sapevamo	20	22	38	83
+sapevano	20	22	38	85
+sapevate	20	22	38	84
+sapevi	20	22	38	81
+sapevo	20	22	38	80
+sapiente	12	13
+sappia	20	22	72
+sappiamo	20	22	39
+sappiamo	20	22	39	83
+sappiano	20	22	72	85
+sappiate	20	22	72	84
+sapra	20	22	40	82
+saprai	20	22	40	81
+sapranno	20	22	40	85
+saprebbe	20	22	72	82
+saprebbero	20	22	72	85
+saprei	20	22	72	80
+sapremmo	20	22	72	83
+sapremo	20	22	40	83
+sapreste	20	22	72	84
+sapresti	20	22	72	81
+saprete	20	22	40	84
+sapro	20	22	40	80
+saput*	20	22	74
+sara	40	82
+sarai	40	81
+saranno	40	85
+sarebbe	72	82
+sarebbero	72	85
+sarei	72	80
+saremmo	72	83
+saremo	40	83
+sareste	72	84
+saresti	72	81
+sarete	40	84
+saro	40	80
+scans*	12	16	20	24
+scappare	12	16	39	46
+scappat*	38	46
+scappav*	38	46
+scarica	12	16
+scaricare	12	16	39
+scaricat*	12	16	38	74
+scaricav*	12	16	38
+scart*	12	16	18
+scegli	20	39	45	81
+scegliamo	20	39	45	83
+scegliate	20	45	72	84
+sceglie	20	39	45	82
+scegliendo	20	45	75
+scegliera	20	40	45	82
+sceglierai	20	40	45	81
+sceglieranno	20	40	45	85
+scegliere	20	45
+sceglierebbe	20	45	72	82
+sceglierebbero	20	45	72	85
+sceglierei	20	45	72	80
+sceglieremmo	20	45	72	83
+sceglieremo	20	40	45	83
+scegliereste	20	45	72	84
+sceglieresti	20	45	72	81
+sceglierete	20	40	45	84
+scegliero	20	40	45	80
+scegliesse	20	45	72	82
+scegliessero	20	45	72	85
+scegliessi	20	45	72
+scegliessimo	20	45	72	83
+sceglieste	20	45	72	84
+scegliete	20	39	45	84
+sceglieva	20	38	45	82
+sceglievamo	20	38	45	83
+sceglievano	20	38	45	85
+sceglievate	20	38	45	84
+sceglievi	20	38	45	81
+sceglievo	20	38	45	80
+scelga	20	45	72
+scelgano	20	45	72	85
+scelgo	20	39	45	80
+scelgono	20	39	45	85
+scelt*	20	45	74
+scenda	43	46	72
+scendano	43	46	72	85
+scende	39	43	46	82
+scendendo	43	46	75
+scendente	43	46
+scendera	40	43	46	82
+scenderai	40	43	46	81
+scenderanno	40	43	46	85
+scendere	43	46
+scenderebbe	43	46	72	82
+scenderebbero	43	46	72	85
+scenderei	43	46	72	80
+scenderemmo	43	46	72	83
+scenderemo	40	43	46	83
+scendereste	43	46	72	84
+scenderesti	43	46	72	81
+scenderete	40	43	46	84
+scendero	40	43	46	80
+scendesse	43	46	72	82
+scendessero	43	46	72	85
+scendessi	43	46	72
+scendessimo	43	46	72	83
+scendeste	43	46	72	84
+scendete	39	43	46	84
+scendeva	38	43	46	82
+scendevamo	38	43	46	83
+scendevano	38	43	46	85
+scendevate	38	43	46	84
+scendevi	38	43	46	81
+scendevo	38	43	46	80
+scendi	39	43	46	81
+scendiamo	39	43	46	83
+scendiate	43	46	72	84
+scendo	39	43	46	80
+scendono	39	43	46	85
+sces*	43	46	74
+schiacc*	12	16	18
+schif*	12	16	18
+sciupa	12	16	39
+sciupare	12	16	39
+sciupat*	12	16	38
+sciupav*	12	16	38
+sciuper*	12	16	40
+sciupo	12	16	39	80
+scoccia	12	16	18	39	82
+scocciare	12	16	18	39
+scocciat*	12	16	18	74
+scocciav*	12	16	18	38
+scoccier*	12	16	18	40
+scoccio	12	16	18	39
+scommess*	25	56
+scommett*	25	39	56
+scompar*	46
+sconfitt*	12	16	19
+sconfort*	12	16	17	19
+scopare	12	16	18	60	62	66
+scopert*	20	22
+scoppia	12	16	18	39
+scoppiando	12	16	18	75
+scoppiare	12	16	18	39
+scoppiat*	12	16	18	38
+scoppiav*	12	16	18	38
+scoppier*	12	16	18	40
+scoppio	12	16	18
+scopr*	20	22
+scoraggia	12	16	19	39
+scoraggiamento	12	16	19
+scoraggiamo	12	16	19	39
+scoraggiando	12	16	19	39
+scoraggiare	12	16	19	39
+scoraggiat*	12	16	19	38
+scoraggiav*	12	16	19	40
+scoraggio	12	16	19	39
+scorre	39	46
+scorrera'	40	46
+scorrere	39	46
+scorreva	38	46
+scritto	31	32	74
+scriva	31	32	72
+scrivania	47	48	49
+scrivano	31	32	72	85
+scrive	31	32	39	82
+scrivendo	31	32	75
+scrivera	31	32	40	82
+scriverai	31	32	40	81
+scriveranno	31	32	40	85
+scrivere	31	32
+scriverebbe	31	32	72	82
+scriverebbero	31	32	72	85
+scriverei	31	32	72	80
+scriveremmo	31	32	72	83
+scriveremo	31	32	40	83
+scrivereste	31	32	72	84
+scriveresti	31	32	72	81
+scriverete	31	32	40	84
+scrivero	31	32	40	80
+scrivesse	31	32	72	82
+scrivessero	31	32	72	85
+scrivessi	31	32	72
+scrivessimo	31	32	72	83
+scriveste	31	32	72	84
+scrivete	31	32	39	84
+scriveva	31	32	38	82
+scrivevamo	31	32	38	83
+scrivevano	31	32	38	85
+scrivevate	31	32	38	84
+scrivevi	31	32	38	81
+scrivevo	31	32	38	80
+scrivi	31	32	39	81
+scriviamo	31	32	39	83
+scriviate	31	32	72	84
+scrivo	31	32	39	80
+scrivono	31	32	39	85
+scrupolos*	12	13	20	24
+scus*	31	32
+se	10	20	23	25
+sebbene	45
+sedendo	75
+sedera	40	82
+sederai	40	81
+sederanno	40	85
+sedere	60	61
+sederebbe	72	82
+sederebbero	72	85
+sederei	72	80
+sederemmo	72	83
+sederemo	40	83
+sedereste	72	84
+sederesti	72	81
+sederete	40	84
+sedero	40	80
+sedesse	72	82
+sedessero	72	85
+sedessi	72
+sedessimo	72	83
+sedeste	72	84
+sedete	39	84
+sedeva	38	82
+sedevamo	38	83
+sedevano	38	85
+sedevate	38	84
+sedevi	38	81
+sedevo	38	80
+sediamo	39	83
+sediate	72	84
+seducente	12	13
+seduto	74
+segue	39	46
+seguente	46
+segui*	38	46
+seguira'	38	46
+seguire	39	46
+seguiremo	40	46
+seguiro'	40	46
+seguito	38	46
+seguiva	38	46
+sei	39	81
+selfservice	47	48	63
+sembra	20	25	39
+sembrando	20	25
+sembrare	20	25
+sembrat*	20	25	38
+sembrav*	20	25	38
+sembrer*	20	25	40
+sempre	26	37
+seneva	39	46
+seni	60	61	62
+seno	60	61	62
+sensazione	20	22	27
+sensibil*	12	13
+sentendo	20	25
+sentenza	12	13	15	47	50
+sentiamo	27	30	39
+sentiment*	20	22	27	30
+sentira'	27	30	40
+sentire	27	30	39
+sentiremo	27	30	40
+sentirmi	1	4	27	30	39
+sentiro'	27	30	40
+sentirsi	27	30	39
+sentit*	27	30	38
+sentito	27	29
+sentiv*	27	30	38
+sento	27	30	39
+senza	7
+senzasperanza	12	16	19
+sepolt*	57	59
+seppellire	57	59
+seppellit*	57	59
+sera	37
+serena	12	13	14
+serenamente	12	13	14
+sereni	12	13	14
+serenita'	12	13
+sereno	12	13	14
+seri	12
+seria	12
+serio	12
+serve	12	39
+servira'	12	40
+serviranno	12	40
+servire	12	39
+servit*	12	38
+serviv*	12	38
+servono	12	39
+sessualita'	62
+sessualmente	62
+settimanali	37
+sever*	12	16	19
+sfacciat*	12	13	15
+sfid*	12	13	15	47	50
+sfiduc*	12	16	19
+sfogar*	12	16	18	39
+sfogat*	12	16	18
+sfogo	12	16	18
+sgradevol*	12	16	18
+sguard*	27	28
+si'	26
+sia	72
+siamo	39	77	83
+siano	72	85
+siate	72	84
+siccome	21	22
+sicur*	12	13	26
+sieda	72
+siedano	72	85
+siede	39	82
+siedi	39	81
+siedo	39	80
+siedono	39	85
+siete	39	77	84
+significa	20	22	39
+significati	20	22
+significativ*	20	22
+significato	20	22
+significav*	20	22	38
+significher*	20	22	40
+signora	31	36
+signore	31	36
+simpat*	12	13
+sinceramente	12	22
+singol*	31	36
+siprendecura	12	13	14	39
+siprendevacura	12	13	14	38
+sipresecura	12	13	14	38
+sivergogna	12	16	39
+smania	12	16
+smanios*	12	16
+smarrit*	12	16	19
+smentire	20	24
+smett*	20	24
+smettere	20	24
+sms	31	32
+so	20	22	39	80
+soci	31	34	36	49
+societa'	47	49
+socio	31	34	36	49
+soddisfa	39	50	82
+soddisfacciamo	39	50	83
+soddisfacciate	50	72	84
+soddisfacendo	75
+soddisfacent*	12	13
+soddisfacente	50
+soddisfacesse	50	72	82
+soddisfacesser	50	72	85
+soddisfacessi	50	72
+soddisfacessim	50	72	83
+soddisfaceste	50	72	84
+soddisfaceva	38	50	82
+soddisfacevamo	38	50	83
+soddisfacevano	38	50	85
+soddisfacevate	38	50	84
+soddisfacevi	38	50	81
+soddisfacevo	38	50	80
+soddisfano	39	50	85
+soddisfare	39	50
+soddisfarebbe	50	72	82
+soddisfarebber	50	72	85
+soddisfarei	50	72	80
+soddisfaremmo	50	72	83
+soddisfareste	50	72	84
+soddisfaresti	50	72	81
+soddisfate	39	50	84
+soddisfatt*	13	14	50	74
+soddisfera	40	50	82
+soddisferai	40	50	81
+soddisferanno	40	50	85
+soddisferemo	40	50	83
+soddisferete	40	50	84
+soddisfero	40	50	80
+soddisfi	39	50	81
+soddisfino	50	72	85
+soddisfo	39	50	80
+sofferenz*	12	16	19
+soffert*	12	16	19	38
+soffoc*	60	61
+soffre	12	16	19	39
+soffrendo	12	16	19	39
+soffriamo	12	16	19	39
+soffrira'	12	16	19	40
+soffrire	12	16	19	39
+soffriremo	12	16	19	40
+soffriro'	12	16	19	40
+soffriv*	12	16	19	38
+soffro	12	16	19	39
+soffrono	12	16	19	39
+sogn*	60	64
+sola	12	16	19
+solamente	10	41	44
+soli	12	16	19
+solid*	26
+solitudine	12	16	19
+sollecitato	12	16	38
+sollevare	47	49
+sollievo	12	13
+solo	12	16	19
+sommergere	12	16	17	19
+sonn*	60	64
+sonnolent*	60	61	64
+sono	39	77	80
+sopraff*	12	16	17	19
+soprannaturale	57
+soprattutto	10	26	41	42
+sord*	60	61
+sorpres*	12	13
+sorridere	12	13	14	39
+sorridev*	12	13	14	38
+sorrido	12	13	14	39	80
+sorris*	12	13	14
+sospettos*	12	16	18
+sostenendo	20	24	27	30
+sostenere	20	24	30	39
+sostenit*	20	24
+sostiene	20	24	30	39	82
+sotto	10	41	43
+sovran*	57	58
+sovrappeso	60	61	63
+sovrastano	12	16	18	39
+sovrastat*	12	16	18	38
+spari*	46
+spaventano	12	16	17	39
+spaventare	12	16	17	39
+spaventat*	12	16	17	38
+spavento	12	16	17
+spaventos*	12	16	17
+specializzazion*	47	48
+spenda	56	72
+spendano	56	72	85
+spende	39	56	82
+spendendo	56	75
+spendera	40	56	82
+spenderai	40	56	81
+spenderanno	40	56	85
+spendere	56
+spenderebbe	56	72	82
+spenderebbero	56	72	85
+spenderei	56	72	80
+spenderemmo	56	72	83
+spenderemo	40	56	83
+spendereste	56	72	84
+spenderesti	56	72	81
+spenderete	40	56	84
+spendeo	40	56	80
+spendesse	56	72	82
+spendessero	56	72	85
+spendessi	56	72
+spendessimo	56	72	83
+spendeste	56	72	84
+spendete	39	56	84
+spendeva	38	56	82
+spendevamo	38	56	83
+spendevano	38	56	85
+spendevate	38	56	84
+spendevi	38	56	81
+spendevo	38	56	80
+spendi	39	56	81
+spendiamo	39	56	83
+spendiate	56	72	84
+spendo	39	56	80
+spendono	39	56	85
+spera	12	13	15	20	23	25	82
+speranza	12	13	15	20	23	25
+speranzos*	12	13	15	20	23	25
+sperare	12	13	15	20	23	25
+sperava	12	13	15	20	23	25	82
+speriamo	12	13	15	20	23	25	83
+spero	12	13	15	20	23	25	80
+speso	56	74
+spezzato	38
+spiacevole	12	16
+spicci	56
+spiccioli	56
+spieg*	20	22	31	32	38
+spiega	20	22	31	32	39
+spiegando	20	22	31	32	75
+spiegare	20	22	31	32	39
+spiegat*	20	22	31	32	38
+spiegav*	20	22	31	32	38
+spiegazione	20	22
+spiegazioni	20	22	31	32
+spinga	46	72
+spingano	46	72	85
+spinge	39	46	82
+spingendo	46	75
+spingente	46
+spingera	40	46	82
+spingerai	40	46	81
+spingeranno	40	46	85
+spingere	39	46
+spingerebbe	46	72	82
+spingerebbero	46	72	85
+spingerei	46	72	80
+spingeremmo	46	72	83
+spingeremo	40	46	83
+spingereste	46	72	84
+spingeresti	46	72	81
+spingerete	40	46	84
+spingero	40	46	80
+spingesse	46	72	82
+spingessero	46	72	85
+spingessi	46	72
+spingessimo	46	72	83
+spingeste	46	72	84
+spingete	39	46	84
+spingeva	38	46	82
+spingevamo	38	46	83
+spingevano	38	46	85
+spingevate	38	46	84
+spingevi	38	46	81
+spingevo	38	46	80
+spingi	39	46	81
+spingiamo	39	46	83
+spingiate	46	72	84
+spingo	39	46	80
+spingono	39	46	85
+spinta	46
+spinto	38	46
+spinto	46	74
+spiritual*	57	58
+splendido	12	13
+spoglia*	60	61	62
+squallido	12	13	19
+sta	39	82
+stabili*	20	22
+stai	39	81
+stanc*	60	61	64
+stando	75
+stanno	39	85
+stante	39
+stanz*	51	52
+stara	40	82
+starai	40	81
+staranno	40	85
+stare	39
+starebbe	72	82
+starebbero	72	85
+starei	72	80
+staremmo	72	83
+staremo	40	83
+stareste	72	84
+staresti	72	81
+starete	40	84
+staro	40	80
+stasera	37
+stata	38
+state	39	84
+stato	74
+stava	38	82
+stavamo	38	83
+stavano	38	85
+stavate	38	84
+stavi	38	81
+stavo	38	80
+stesse	72	82
+stessero	72	85
+stessi	72
+stessimo	72	83
+steste	72	84
+stia	72
+stiamo	39	83
+stiano	72	85
+stiate	72	84
+stimola	20	21	39
+stimolare	20	21	39
+stimolat*	20	21	38
+stimolav*	20	21	38
+stimoler*	20	21	40
+stimolo	20	21
+stizza	12	16	18
+stizzit*	12	16	18
+sto	39	80
+storic*	37
+stratton*	12	16	18
+stres*	12	16	17
+strett*	41
+stretto	27	30	74
+stringa	27	30	72
+stringano	27	30	72	85	 
+stringe	27	30	39	82
+stringendo	27	30	75
+stringente	27	30
+stringera	27	30	40	82
+stringerai	27	30	40	81
+stringeranno	27	30	40	85
+stringerebbe	27	30	72	82
+stringerebbero	27	30	72	85
+stringerei	27	30	72	80
+stringeremmo	27	30	72	83
+stringeremo	27	30	40	83
+stringereste	27	30	72	84
+stringeresti	27	30	72	81
+stringerete	27	30	40	84
+stringero	27	30	40	80
+stringesse	27	30	72	82
+stringessero	27	30	72	85
+stringessi	27	30	72
+stringessimo	27	30	72	83
+stringeste	27	30	72	84
+stringete	27	30	39	84
+stringeva	27	30	38	82
+stringevamo	27	30	38	83
+stringevano	27	30	38	85
+stringevate	27	30	38	84
+stringevi	27	30	38	81
+stringevo	27	30	38	80
+stringi	27	30	39	81
+stringiamo	27	30	39	83
+stringiate	27	30	72	84
+stringo	27	30	39	80
+stringono	27	30	39	85
+stronz*	12	16	18	66
+strozz*	60	61
+strument*	51	55
+struttur*	20	47	49
+stufat*	12	16	18	38
+stufo	12	16	18	39
+stupid*	12	16	18
+su	10	42
+sua	1	6	31	33
+subendo	12	16	19
+subire	12	16	19	39
+subisco	12	16	19	39
+subito	37
+succede	39
+succedere	39
+succedeva	38
+succedono	39
+successa	38
+successivament	10	37
+successo	50	74
+suo	1	6	31	33
+suocera	31	35
+superb*	12	13
+superficie	41
+superiori	47	48
+supermercato	47	49
+suppone	25	39
+supporre	25	39
+supporto	12	13
+svantaggiato	12	16
+svela*	20	22	31	32
+sveni*	60	61
+svuot*	12	16	19
+taccia	31	32	72
+tacciamo	31	32	39	83
+tacciano	31	32	72	85
+tacciate	31	32	72	84
+taccio	31	32	39	80
+tacciono	31	32	39	85
+tace	31	32	39	82
+tacendo	31	32	75
+tacente	31	32
+tacera	31	32	40	82
+tacerai	31	32	40	81
+taceranno	31	32	40	85
+tacere	31	32
+tacerebbe	31	32	72	82
+tacerebbero	31	32	72	85
+tacerei	31	32	72	80
+taceremmo	31	32	72	83
+taceremo	31	32	40	83
+tacereste	31	32	72	84
+taceresti	31	32	72	81
+tacerete	31	32	40	84
+tacero	31	32	40	80	 
+tacesse	31	32	72	82
+tacessero	31	32	72	85
+tacessi	31	32	72
+tacessimo	31	32	72	83
+taceste	31	32	72	84
+tacete	31	32	39	84
+taceva	31	32	38	82
+tacevamo	31	32	38	83
+tacevano	31	32	38	85
+tacevate	31	32	38	84
+tacevi	31	32	38	81
+tacevo	31	32	38	80
+taci	31	32	39	81
+taciuto	31	32	74
+taglia	12	16	18	39	 
+tagliare	12	16	18	39
+tagliat*	12	16	18	38
+tamburo	51	55
+tana	51	52
+tanto	10
+tappare	24	39
+tardi	37
+telefona	27	29	31	32	39	82
+telefonando	27	29	31	32	75
+telefonare	27	29	31	32	39
+telefonata	31	32
+telefonate	27	29	31	32
+telefonato	27	29	31	32	38
+telefonav*	27	29	31	32	38
+telefoner*	27	29	31	32	40
+telefono	31	32
+teme	12	16	17	39
+temendo	12	16	17
+temerario	12	13	15
+temere	12	16	17	39
+temev*	12	16	17	38
+temiamo	12	16	17	39
+temo	12	16	17
+temono	12	16	17	39
+temperamento	12	16	18
+tempo	37
+tempofa	37	38
+tenendo	27	30	75
+tenera	12	13	60	61
+teneramente	12	13	60	61
+tenere	20	24	27	30	39
+tenere	27	30
+tenerezz*	12	13	60	61
+teneri	12	13	60	61
+tenerle	1	6	31	33	39
+tenero	12	13	60	61
+tenesse	27	30	72	82
+tenessero	27	30	72	85	 
+tenessi	27	30	72
+tenessimo	27	30	72	83
+teneste	27	30	72	84
+tenete	27	30	39	84
+teneva	27	30	38	82
+tenevamo	27	30	38	83
+tenevano	27	30	38	85
+tenevate	27	30	38	84
+tenevi	27	30	38	81
+tenevo	27	30	38	80
+tenga	27	30	72
+tengano	27	30	72	85
+tengo	27	30	39	80
+tengono	27	30	39	85
+teniamo	27	30	39	83
+teniate	27	30	72	84
+tensione	12	16	17
+tenta	25	39
+tentano	25	39
+tentare	25	39
+tentativo	25
+tentiamo	25	39
+tento	25	39
+tenuto	74
+termin*	20	22	50
+terra	27	30	40	82
+terrai	27	30	40	81
+terranno	27	30	40	85
+terrebbe	27	30	72	82
+terrebbero	27	30	72	85
+terrei	27	30	72	80
+terremmo	27	30	72	83
+terremo	27	30	40	83
+terreste	27	30	72	84
+terresti	27	30	72	81
+terrete	27	30	40	84
+terribil*	12	16	17	18
+terrificant*	12	16	17	18
+terro'	40
+terra	27	30	40	80
+terror*	12	16	17	18
+tesi	12	16	17
+teso	12	16	17
+testa	60	61
+testard*	12	16	18	20	24
+tetr*	12	16	19
+tetta	60	61	62
+tettarella	60	61	62
+tette	60	61	62
+tiene	27	30	39	82
+tieni	27	30	39	81
+timor*	12	16	17
+tocca	27	30	39
+tocca	no	27	30	39
+toccare	27	30	39
+toccat*	27	30	38
+toccav*	27	30	38
+toccher*	27	30	40
+tocco	27	30	39
+togli	39	45	81
+togliamo	39	45	83
+togliate	45	72	84
+toglie	39	45	82
+togliendo	45	75
+togliera	40	45	82
+toglierai	40	45	81
+toglieranno	40	45	85
+togliere	45
+toglierebbe	45	72	82
+toglierebbero	45	72	85
+toglierei	45	72	80
+toglieremmo	45	72	83
+toglieremo	40	45	83
+togliereste	45	72	84
+toglieresti	45	72	81
+toglierete	40	45	84
+togliero	40	45	80
+togliesse	45	72	82
+togliessero	45	72	85
+togliessi	45	72
+togliessimo	45	72	83
+toglieste	45	72	84
+togliete	39	45	84
+toglieva	38	45	82
+toglievamo	38	45	83
+toglievano	38	45	85
+toglievate	38	45	84
+toglievi	38	45	81
+toglievo	38	45	80
+tolga	45	72
+tolgano	45	72	85
+tolgo	39	45	80
+tolgono	39	45	85
+tollera	12	13	39
+tollerante	12	13
+tollerare	12	13	39
+tollerat*	12	13	38
+tollerav*	12	13	38
+tollerer*	12	13	40
+tollero	12	13	39
+tolto	45	74
+tomba	12	16	19	57	59
+torace	60	61
+tornat*	46	74
+torto	12	16	19
+tosse	60	61
+totale	26
+tra	10	41
+trae	20	22	39	82
+traendo	20	22	75
+traesse	20	22	72	82
+traessi	20	22	72
+traessimo	20	22	72	83
+traeste	20	22	72	84
+traete	20	22	39	84
+traeva	20	22	38	82
+traevamo	20	22	38	83
+traevano	20	22	38	85
+traevate	20	22	38	84
+traevi	20	22	38	81
+traevo	20	22	38	80
+traferisc*	39	46
+tragedia	12	16	19
+tragga	20	22	72
+traggano	20	22	72	85
+traggo	20	22	39	80
+traggono	20	22	39	85
+traguardo	20	47	50
+trai	20	22	39	81
+traiamo	20	22	39	83
+traiate	20	22	72	84
+tranquill*	12	13	15
+tranquillament	12	13	15
+tranquilli	12	13	15
+tranquillita'	12	13	15
+tranquillizzare	12	13	15	39
+tranquillizzat*	12	13	15	38
+tranquillizzav*	12	13	15	38
+tranquillizzer*	12	13	15	40
+tranquillo	12	13	15
+trarra	20	22	40	82
+trarrai	20	22	40	81
+trarranno	20	22	40	85
+trarre	20	22	39
+trarrebbe	20	22	72	82
+trarrebbero	20	22	72	85
+trarrei	20	22	72	80
+trarremmo	20	22	72	83
+trarreste	20	22	72	84
+trarresti	20	22	72	81
+trarrete	20	22	40	84
+trarro	20	22	40	80
+trascorre	37	39
+trascorrendo	37
+trascorrera'	37	40
+trascorrere	37	39
+trascorreremo	37	40
+trascorrero'	37	40
+trascorrev*	37	38
+trascorriamo	37	39
+trascorro	37	39
+trascors*	37	38
+trascur*	12	16	20	24
+trascurat*	12	16
+trasferiamo	39	46
+trasferira'	40	46
+trasferire	39	46
+trasferiro'	40	46
+trasferit*	38	46
+trasporta	39	46
+trasportare	39	46
+trasportato	38	46
+trasporto	46
+trassero	20	22	72	85
+tratto	20	22	74
+traum*	12	16
+trauma	12	16
+traumatizzare	12	16	39
+traumattizzat*	12	16	38	 
+tremend*	12	16	17	18
+trist*	12	16	17	19
+tritat*	12	16	19
+trova	20	22	39
+trovare	20	22	39
+trovarsi	4	20	22	39
+trovat*	20	21	22	38
+trovav*	20	21	22	38
+troviamo	20	22	39
+trovo	20	22	39
+tu	1	5
+tumore	60	61
+turbare	12	16	17	39
+turbat*	12	16	17	38
+turbav*	12	16	17	39
+tutti	1	31	33
+tutto	26	44
+ubbidien*	20	24	47	49
+uccida	12	16	18	59	72
+uccidano	12	16	18	59	72	85
+uccide	12	16	18	39	59	82
+uccidendo	12	16	18	59	75
+uccidera	12	16	18	40	59	82
+ucciderai	12	16	18	40	59	81
+uccideranno	12	16	18	40	59	85
+uccidere	12	16	18	59
+ucciderebbe	12	16	18	59	72	82
+ucciderebbero	12	16	18	59	72	85
+ucciderei	12	16	18	59	72	80
+uccideremmo	12	16	18	59	72	83
+uccideremo	12	16	18	40	59	83
+uccidereste	12	16	18	59	72	84
+uccideresti	12	16	18	59	72	81
+ucciderete	12	16	18	40	59	84
+uccidero	12	16	18	40	59	80
+uccidesse	12	16	18	59	72	82
+uccidessero	12	16	18	59	72	85
+uccidessi	12	16	18	59	72
+uccidessimo	12	16	18	59	72	83
+uccideste	12	16	18	59	72	84
+uccidete	12	16	18	39	59	84
+uccideva	12	16	18	38	59	82
+uccidevamo	12	16	18	38	59	83
+uccidevano	12	16	18	38	59	85
+uccidevate	12	16	18	38	59	84
+uccidevi	12	16	18	38	59	81
+uccidevo	12	16	18	38	59	80
+uccidi	12	16	18	39	59	81
+uccidiamo	12	16	18	39	59	83
+uccidiate	12	16	18	59	72	84
+uccido	12	16	18	39	59	80
+uccidono	12	16	18	39	59	85
+uccis*	12	16	18	59	74
+uffici	47	49
+ufficio	47	49
+ultim*	37
+ultraterren*	57	58
+uman*	31	36
+umilia*	12	16	17	18
+umore	12
+umorismo	12	13
+un	9
+un'	9
+una	9
+unfatto	20	26
+universit*	47	48
+uno	9
+uomini	31	36
+uomo	31	36
+urgen*	37
+urna	57	59
+uscendo	46	75
+uscente	46
+usciamo	39	46	83
+usciate	46	72	84
+uscimmo	38	41	45	46
+uscira	40	46	82
+uscirai	40	46	81
+usciranno	40	46	85
+uscire	39	41	45	46
+uscirebbe	46	72	82
+uscirebbero	46	72	85
+uscirei	46	72	80
+usciremmo	46	72	83
+usciremo	40	46	83
+uscireste	46	72	84
+usciresti	72	46	81
+uscirete	40	46	84
+usciro	40	46	80
+uscisse	46	72	82
+uscissero	46	72	85
+uscissi	46	72
+uscissimo	46	72	83
+usciste	46	72	84
+uscita	38	41	45	46
+uscite	39	46	84
+usciti	38	41	45	46
+uscito	38	41	45	46
+usciva	38	46	82
+uscivamo	38	46	83
+uscivano	38	46	85
+uscivate	38	46	84
+uscivi	38	46	81
+uscivo	38	46	80
+utero	60	61	62
+utile	12	13	31
+utilit*	12	13	39
+va	39	46	82
+vada	39	46
+vada	46	72
+vadano	46	72	85
+vado	39	46
+vado	39	46	80
+vaffanculo	66
+vai	39	46	81
+vale	12	39	56	82
+valendo	12	56	75
+valente	12	56
+valere	12	56
+valesse	12	56	72	82
+valessero	12	56	72	85
+valessi	12	56	72
+valessimo	12	56	72	83
+valeste	12	56	72	84
+valete	12	39	56	84
+valeva	12	38	56	82
+valevamo	12	38	56	83
+valevano	12	38	56	85
+valevate	12	38	56	84
+valevi	12	38	56	81
+valevo	12	38	56	80	 
+valga	12	56	72
+valgano	12	56	72	85
+valgo	12	39	56	80
+valgono	12	39	56	85
+vali	12	39	56	81
+valiamo	12	39	56	83
+valiate	12	56	72	84
+valso	56	74
+valut*	20	22
+vanno	39	46	85
+vantagg*	12	13	15	 
+vantaggio	12	13	15
+vantaggios*	12	13	15	56
+varra	12	40	56	82
+varrai	12	40	56	81
+varranno	12	40	56	85
+varrebbe	12	56	72	82
+varrebbero	12	56	72	85
+varrei	12	56	72	80
+varremmo	12	56	72	83
+varremo	12	40	56	83
+varreste	12	56	72	84
+varresti	12	56	72	81
+varrete	12	40	56	84
+varro	12	40	56	80
+vecch*	37
+veda	27	28	72
+vedano	27	28	72	85
+vede	27	28	39	82
+vedendo	27	28	75
+vedente	27	28
+vedere	27	28
+vedesse	27	28	72	82
+vedessero	27	28	72	85
+vedessi	27	28	72
+vedessimo	27	28	72	83
+vedeste	27	28	72	84
+vedete	27	28	39	84
+vedeva	27	28	38	82
+vedevamo	27	28	38	83
+vedevano	27	28	38	85
+vedevate	27	28	38	84
+vedevi	27	28	38	81
+vedevo	27	28	38	80
+vedi	27	28	39	81
+vediamo	27	28	39	83
+vediate	27	28	72	84
+vedo	27	28	39	80
+vedono	27	28	39	85
+vedrai	27	28	40	81
+vedranno	27	28	40	85
+vedrebbe	27	28	72	82
+vedrebbero	27	28	72	85
+vedrei	27	28	72	80
+vedremmo	27	28	72	83
+vedremo	27	28	40	83	 
+vedreste	27	28	72	84
+vedresti	27	28	72	81
+vedrete	27	28	40	84
+vedro	27	28	40	80
+velen*	12	16	18
+vendere	39	56
+venendo	46	75
+venerdi	37
+venga	46	72
+vengano	46	72	85
+vengo	39	46	80
+vengono	39	46	85
+veniamo	39	46	83
+veniate	46	72	84
+veniente	46
+venimmo	39	46
+venire	39	46
+venisse	46	72	82
+venissero	46	72	85
+venissi	46	72
+venissimo	46	72	83
+veniste	46	72	84
+venite	39	46	84
+veniva	38	46	82
+venivamo	38	46	83
+venivano	38	46	85
+venivate	38	46	84
+venivi	38	46	81
+venivo	38	46	80
+ventre	60	61
+venut*	46	74
+venuto	46	74
+veramente	8	26
+vergogna	12	16
+vergognarsi	12	16	39
+vergognat*	12	16	38
+vergognav*	12	16	38
+vergogner*	12	16	40
+verifica	20	22
+verificando	20	22
+verificare	20	22	39
+verificat*	20	22	38
+verificav*	20	22	38
+verificher*	20	22	38
+verifichiamo	20	22	39
+verifico	20	22	39
+verosimile	25
+verro	40	46	82
+verrai	40	46	81
+verranno	40	46	85
+verrebbe	46	72	82
+verrebbero	46	72	85
+verrei	46	72	80
+verremmo	46	72	83
+verremo	40	46	83
+verreste	46	72	84
+verresti	46	72	81
+verrete	40	46	84
+verro	40	46	80
+vertigin*	60	61	 
+vescica	60	61
+via	10
+vicenda	20	26
+vicina	41
+vicine	41
+vicini	41
+vicino	41
+viene	39	46	82
+vieni	39	46	81
+vieta*	12	16	20	24
+vigil*	12	13
+vinca	12	13	47	50	72
+vincano	12	13	47	50	72	85
+vince	12	13	39	47	50	82
+vincendo	12	13	47	50	75
+vincente	12	13	47	50
+vincera	12	13	40	47	50	82
+vincerai	12	13	40	47	50	81
+vinceranno	12	13	40	47	50	85
+vincere	12	13	47	50
+vincerebbe	12	13	47	50	72	82
+vincerebbero	12	13	47	50	72	85
+vincerei	12	13	47	50	72	80
+vinceremmo	12	13	47	50	72	83
+vinceremo	12	13	40	47	50	83
+vincereste	72	12	84	13	47
+vinceresti	12	13	47	50	72	81
+vincerete	12	13	40	47	50	84
+vincero	12	13	40	47	50	80
+vincesse	12	13	47	50	72	82
+vincessero	12	13	47	50	72	85
+vincessi	12	13	47	50	72
+vincessimo	12	13	47	50	72	83
+vinceste	12	13	47	50	72	84
+vincete	12	13	39	47	50	84
+vinceva	12	13	38	47	50	82
+vincevamo	12	13	38	47	50	83
+vincevano	12	13	38	47	50	85
+vincevate	12	13	38	47	50	84
+vincevi	12	13	38	47	50	81
+vincevo	12	13	38	47	50	80
+vinci	12	13	39	47	50	81
+vinciamo	12	13	39	47	50	83
+vinciate	12	13	47	50	72	84
+vincitor*	12	13	15	47	50
+vinco	12	13	39	47	50	80
+vincono	12	13	39	47	50	85
+vinto	12	13	47	50	74
+violent*	12	16	18
+violenza	12	16	18
+viscere	60	61
+visitare	39	46
+vissuto	51	52	74
+vist*	20	22	27	28	74
+vitale	12	13
+vittori*	12	13	15	47	50
+viva	51	52	72
+vivac*	12	13
+vivano	51	52	72	85
+vive	39	51	52	82
+vivendo	51	52	75
+vivente	51	52
+vivere	39	51	52
+vivesse	51	52	72	82
+vivessero	51	52	72	85
+vivessi	51	52	72
+vivessimo	51	52	72	83
+viveste	51	52	72	84
+vivete	39	51	52	84
+viveva	38	51	52	82
+vivevamo	38	51	52	83
+vivevano	38	51	52	85
+vivevate	38	51	52	84
+vivevi	38	51	52	81
+vivevo	38	51	52	80
+vivi	39	51	52	81
+viviamo	39	51	52	83
+viviate	51	52	72	84
+vivo	39	51	52	80
+vivono	39	51	52	85
+vivra	40	51	52	82
+vivrai	40	51	52	81
+vivranno	40	51	52	85
+vivrebbe	51	52	72	82
+vivrebbero	51	52	72	85
+vivrei	51	52	72	80
+vivremmo	51	52	72	83
+vivremo	40	51	52	83
+vivreste	51	52	72	84
+vivresti	51	52	72	81
+vivrete	40	51	52	84
+vivro	40	51	52	80
+voglia	20	23	72
+vogliamo	20	23	39	83
+vogliano	20	23	72	85
+vogliate	20	23	72	84
+voglio	20	23	39	80
+vogliono	20	23	39	85
+vola	39	46
+volante	46
+volare	39	46
+volato	38	46
+volav*	38	46
+volendo	20	23	75
+volente	20	23
+volere	20	23
+volesse	20	23	72	82
+volessero	20	23	72	85
+volessi	20	23	72
+volessimo	20	23	72	83
+voleste	20	23	72	84
+volete	20	23	39	84
+voleva	20	23	38	82
+volevamo	20	23	38	83
+volevano	20	23	38	85
+volevate	20	23	38	84
+volevi	20	23	38	81
+volevo	20	23	38	80
+volgare	12	16
+volut*	20	23	74
+vomit*	12	16	60	61
+vorra	20	23	40	82
+vorrai	20	23	40	81
+vorrano	20	23	40	85
+vorrebbe	20	23	72	82
+vorrebbero	20	23	72	85
+vorrei	20	23	72	80
+vorremmo	20	23	72	83
+vorremo	20	23	40	83
+vorreste	20	23	72	84
+vorresti	20	23	72	81
+vorrete	20	23	40	84
+vorro	20	23	40	80
+vuoi	20	23	39	81
+vuole	20	23	39	82
+vuot*	12	16	19
+zero	7	11
+zia	31	35
+zietta	31	35
+zoccola	12	16	66
+zopp*	12	16
